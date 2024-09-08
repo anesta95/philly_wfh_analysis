@@ -1,0 +1,2381 @@
+data_week,city,occupancy
+2020-02-12,Washington,98.77
+2020-02-12,New York,98.84
+2020-02-12,Chicago,99.21
+2020-02-12,Houston,98.95
+2020-02-12,Philadelphia,99.12
+2020-02-12,San Francisco,99.21
+2020-02-12,Los Angeles,99.46
+2020-02-12,Dallas,99.7
+2020-02-12,San Jose,98.68
+2020-02-12,Austin,98.57
+2020-02-19,Washington,96.73
+2020-02-19,New York,94.3
+2020-02-19,Chicago,96.02
+2020-02-19,Houston,97.76
+2020-02-19,Philadelphia,99.07
+2020-02-19,San Francisco,94.8
+2020-02-19,Los Angeles,97.58
+2020-02-19,Dallas,97.9
+2020-02-19,San Jose,97.08
+2020-02-19,Austin,99.69
+2020-02-26,Washington,98.81
+2020-02-26,New York,96.84
+2020-02-26,Chicago,98.38
+2020-02-26,Houston,98.51
+2020-02-26,Philadelphia,101.28
+2020-02-26,San Francisco,98.06
+2020-02-26,Los Angeles,98.96
+2020-02-26,Dallas,98.38
+2020-02-26,San Jose,98.18
+2020-02-26,Austin,101.77
+2020-03-04,Washington,98.8
+2020-03-04,New York,97.71
+2020-03-04,Chicago,99.58
+2020-03-04,Houston,98.46
+2020-03-04,Philadelphia,101.08
+2020-03-04,San Francisco,96.87
+2020-03-04,Los Angeles,99.15
+2020-03-04,Dallas,99.07
+2020-03-04,San Jose,97.9
+2020-03-04,Austin,101.75
+2020-03-11,Washington,94.9
+2020-03-11,New York,86.9
+2020-03-11,Chicago,97.15
+2020-03-11,Houston,94.92
+2020-03-11,Philadelphia,98.3
+2020-03-11,San Francisco,78.26
+2020-03-11,Los Angeles,97.03
+2020-03-11,Dallas,95.9
+2020-03-11,San Jose,85.47
+2020-03-11,Austin,95.14
+2020-03-18,Washington,47.94
+2020-03-18,New York,34.93
+2020-03-18,Chicago,49.4
+2020-03-18,Houston,66.19
+2020-03-18,Philadelphia,54.52
+2020-03-18,San Francisco,29.38
+2020-03-18,Los Angeles,62.47
+2020-03-18,Dallas,66.72
+2020-03-18,San Jose,36.35
+2020-03-18,Austin,54.83
+2020-03-25,Washington,19.36
+2020-03-25,New York,8.73
+2020-03-25,Chicago,14.32
+2020-03-25,Houston,33.44
+2020-03-25,Philadelphia,20.51
+2020-03-25,San Francisco,8.97
+2020-03-25,Los Angeles,29.23
+2020-03-25,Dallas,33.01
+2020-03-25,San Jose,15.24
+2020-03-25,Austin,26.34
+2020-04-01,Washington,15.3
+2020-04-01,New York,5.49
+2020-04-01,Chicago,10.4
+2020-04-01,Houston,23.82
+2020-04-01,Philadelphia,17.11
+2020-04-01,San Francisco,8.34
+2020-04-01,Los Angeles,23.85
+2020-04-01,Dallas,21.96
+2020-04-01,San Jose,13.16
+2020-04-01,Austin,22.46
+2020-04-08,Washington,13.46
+2020-04-08,New York,4.72
+2020-04-08,Chicago,9.72
+2020-04-08,Houston,23.4
+2020-04-08,Philadelphia,15.33
+2020-04-08,San Francisco,8.08
+2020-04-08,Los Angeles,22.11
+2020-04-08,Dallas,21.32
+2020-04-08,San Jose,11.34
+2020-04-08,Austin,22.52
+2020-04-15,Washington,12.94
+2020-04-15,New York,4.27
+2020-04-15,Chicago,9.44
+2020-04-15,Houston,21.48
+2020-04-15,Philadelphia,14.53
+2020-04-15,San Francisco,7.68
+2020-04-15,Los Angeles,21.56
+2020-04-15,Dallas,20.99
+2020-04-15,San Jose,11.02
+2020-04-15,Austin,22.12
+2020-04-22,Washington,13.19
+2020-04-22,New York,4.69
+2020-04-22,Chicago,10.12
+2020-04-22,Houston,23.16
+2020-04-22,Philadelphia,15.41
+2020-04-22,San Francisco,7.95
+2020-04-22,Los Angeles,22.11
+2020-04-22,Dallas,22.09
+2020-04-22,San Jose,11.36
+2020-04-22,Austin,22.49
+2020-04-29,Washington,13.43
+2020-04-29,New York,4.89
+2020-04-29,Chicago,10.5
+2020-04-29,Houston,24.3
+2020-04-29,Philadelphia,15.82
+2020-04-29,San Francisco,8.25
+2020-04-29,Los Angeles,22.71
+2020-04-29,Dallas,23.2
+2020-04-29,San Jose,11.88
+2020-04-29,Austin,23.28
+2020-05-06,Washington,13.64
+2020-05-06,New York,5.07
+2020-05-06,Chicago,10.98
+2020-05-06,Houston,26.07
+2020-05-06,Philadelphia,16.6
+2020-05-06,San Francisco,8.7
+2020-05-06,Los Angeles,23.63
+2020-05-06,Dallas,24.47
+2020-05-06,San Jose,12.57
+2020-05-06,Austin,24.59
+2020-05-13,Washington,14.01
+2020-05-13,New York,5.31
+2020-05-13,Chicago,11.33
+2020-05-13,Houston,26.5
+2020-05-13,Philadelphia,17.63
+2020-05-13,San Francisco,9.22
+2020-05-13,Los Angeles,23.92
+2020-05-13,Dallas,25.81
+2020-05-13,San Jose,13.45
+2020-05-13,Austin,25.31
+2020-05-20,Washington,14.36
+2020-05-20,New York,5.61
+2020-05-20,Chicago,11.28
+2020-05-20,Houston,28.37
+2020-05-20,Philadelphia,18.33
+2020-05-20,San Francisco,9.73
+2020-05-20,Los Angeles,24.77
+2020-05-20,Dallas,27.38
+2020-05-20,San Jose,14.29
+2020-05-20,Austin,26.63
+2020-05-27,Washington,14.59
+2020-05-27,New York,5.94
+2020-05-27,Chicago,11.95
+2020-05-27,Houston,29.17
+2020-05-27,Philadelphia,18.51
+2020-05-27,San Francisco,9.98
+2020-05-27,Los Angeles,25.21
+2020-05-27,Dallas,30.46
+2020-05-27,San Jose,14.49
+2020-05-27,Austin,26.23
+2020-06-03,Washington,15.2
+2020-06-03,New York,6.14
+2020-06-03,Chicago,10.1
+2020-06-03,Houston,31.99
+2020-06-03,Philadelphia,18.13
+2020-06-03,San Francisco,10.08
+2020-06-03,Los Angeles,25.19
+2020-06-03,Dallas,33.82
+2020-06-03,San Jose,14.75
+2020-06-03,Austin,27.04
+2020-06-10,Washington,16.32
+2020-06-10,New York,6.84
+2020-06-10,Chicago,14.05
+2020-06-10,Houston,33.63
+2020-06-10,Philadelphia,19.6
+2020-06-10,San Francisco,10.64
+2020-06-10,Los Angeles,27.32
+2020-06-10,Dallas,35.27
+2020-06-10,San Jose,15.54
+2020-06-10,Austin,29.11
+2020-06-17,Washington,17.42
+2020-06-17,New York,7.73
+2020-06-17,Chicago,16.28
+2020-06-17,Houston,34.19
+2020-06-17,Philadelphia,21.11
+2020-06-17,San Francisco,11.54
+2020-06-17,Los Angeles,29.56
+2020-06-17,Dallas,36.32
+2020-06-17,San Jose,16.32
+2020-06-17,Austin,29.63
+2020-06-24,Washington,17.82
+2020-06-24,New York,8.42
+2020-06-24,Chicago,16.82
+2020-06-24,Houston,31.95
+2020-06-24,Philadelphia,21.79
+2020-06-24,San Francisco,12.19
+2020-06-24,Los Angeles,30.54
+2020-06-24,Dallas,35.75
+2020-06-24,San Jose,15.88
+2020-06-24,Austin,27.52
+2020-07-01,Washington,18.56
+2020-07-01,New York,9.14
+2020-07-01,Chicago,17.49
+2020-07-01,Houston,26.81
+2020-07-01,Philadelphia,22.98
+2020-07-01,San Francisco,12.55
+2020-07-01,Los Angeles,30.45
+2020-07-01,Dallas,33.25
+2020-07-01,San Jose,16.39
+2020-07-01,Austin,28.04
+2020-07-08,Washington,18.47
+2020-07-08,New York,9.72
+2020-07-08,Chicago,17.69
+2020-07-08,Houston,24.08
+2020-07-08,Philadelphia,23.3
+2020-07-08,San Francisco,12.05
+2020-07-08,Los Angeles,28.43
+2020-07-08,Dallas,30.84
+2020-07-08,San Jose,15.45
+2020-07-08,Austin,27.59
+2020-07-15,Washington,19.45
+2020-07-15,New York,10.19
+2020-07-15,Chicago,18.64
+2020-07-15,Houston,24.82
+2020-07-15,Philadelphia,24.17
+2020-07-15,San Francisco,12.69
+2020-07-15,Los Angeles,28.54
+2020-07-15,Dallas,31.49
+2020-07-15,San Jose,16.02
+2020-07-15,Austin,28.2
+2020-07-22,Washington,19.54
+2020-07-22,New York,10.35
+2020-07-22,Chicago,18.62
+2020-07-22,Houston,24.88
+2020-07-22,Philadelphia,23.66
+2020-07-22,San Francisco,12.35
+2020-07-22,Los Angeles,27.83
+2020-07-22,Dallas,32.1
+2020-07-22,San Jose,15.1
+2020-07-22,Austin,27.65
+2020-07-29,Washington,19.71
+2020-07-29,New York,10.6
+2020-07-29,Chicago,18.72
+2020-07-29,Houston,25.62
+2020-07-29,Philadelphia,23.62
+2020-07-29,San Francisco,12.32
+2020-07-29,Los Angeles,27.93
+2020-07-29,Dallas,32.82
+2020-07-29,San Jose,15.76
+2020-07-29,Austin,28.92
+2020-08-05,Washington,19.1
+2020-08-05,New York,10.38
+2020-08-05,Chicago,19.12
+2020-08-05,Houston,26.71
+2020-08-05,Philadelphia,22.85
+2020-08-05,San Francisco,12.55
+2020-08-05,Los Angeles,27.62
+2020-08-05,Dallas,34.22
+2020-08-05,San Jose,15.33
+2020-08-05,Austin,29.17
+2020-08-12,Washington,19.41
+2020-08-12,New York,11.34
+2020-08-12,Chicago,16.92
+2020-08-12,Houston,27.02
+2020-08-12,Philadelphia,24.04
+2020-08-12,San Francisco,12.56
+2020-08-12,Los Angeles,27.68
+2020-08-12,Dallas,34.53
+2020-08-12,San Jose,15.86
+2020-08-12,Austin,29.13
+2020-08-19,Washington,19.63
+2020-08-19,New York,11.2
+2020-08-19,Chicago,18.86
+2020-08-19,Houston,27.55
+2020-08-19,Philadelphia,24.03
+2020-08-19,San Francisco,12.65
+2020-08-19,Los Angeles,27.71
+2020-08-19,Dallas,35.12
+2020-08-19,San Jose,16.35
+2020-08-19,Austin,30.03
+2020-08-26,Washington,20.08
+2020-08-26,New York,11.18
+2020-08-26,Chicago,18.88
+2020-08-26,Houston,26.72
+2020-08-26,Philadelphia,24.42
+2020-08-26,San Francisco,12.92
+2020-08-26,Los Angeles,28.29
+2020-08-26,Dallas,36.18
+2020-08-26,San Jose,16.53
+2020-08-26,Austin,30.68
+2020-09-02,Washington,20.15
+2020-09-02,New York,11.52
+2020-09-02,Chicago,19.16
+2020-09-02,Houston,27.68
+2020-09-02,Philadelphia,24.84
+2020-09-02,San Francisco,12.94
+2020-09-02,Los Angeles,28.46
+2020-09-02,Dallas,36.98
+2020-09-02,San Jose,17.03
+2020-09-02,Austin,32.1
+2020-09-09,Washington,20.39
+2020-09-09,New York,12.28
+2020-09-09,Chicago,19
+2020-09-09,Houston,29.38
+2020-09-09,Philadelphia,24.24
+2020-09-09,San Francisco,12.72
+2020-09-09,Los Angeles,27.75
+2020-09-09,Dallas,36.5
+2020-09-09,San Jose,16.77
+2020-09-09,Austin,30.73
+2020-09-16,Washington,21.89
+2020-09-16,New York,14.36
+2020-09-16,Chicago,20.84
+2020-09-16,Houston,31.52
+2020-09-16,Philadelphia,26.38
+2020-09-16,San Francisco,13.22
+2020-09-16,Los Angeles,28.59
+2020-09-16,Dallas,39.42
+2020-09-16,San Jose,17.08
+2020-09-16,Austin,32.93
+2020-09-23,Washington,22.04
+2020-09-23,New York,14.75
+2020-09-23,Chicago,20.64
+2020-09-23,Houston,28.83
+2020-09-23,Philadelphia,26.96
+2020-09-23,San Francisco,13.51
+2020-09-23,Los Angeles,28.7
+2020-09-23,Dallas,39.45
+2020-09-23,San Jose,17.85
+2020-09-23,Austin,33.57
+2020-09-30,Washington,22.34
+2020-09-30,New York,14.88
+2020-09-30,Chicago,20.48
+2020-09-30,Houston,33.38
+2020-09-30,Philadelphia,26.85
+2020-09-30,San Francisco,13.41
+2020-09-30,Los Angeles,28.68
+2020-09-30,Dallas,39.71
+2020-09-30,San Jose,17.83
+2020-09-30,Austin,33.41
+2020-10-07,Washington,22.3
+2020-10-07,New York,15.98
+2020-10-07,Chicago,20.89
+2020-10-07,Houston,34.39
+2020-10-07,Philadelphia,27.51
+2020-10-07,San Francisco,13.74
+2020-10-07,Los Angeles,28.83
+2020-10-07,Dallas,40.29
+2020-10-07,San Jose,18.18
+2020-10-07,Austin,34.63
+2020-10-14,Washington,22.4
+2020-10-14,New York,16.24
+2020-10-14,Chicago,21.1
+2020-10-14,Houston,34.65
+2020-10-14,Philadelphia,27.74
+2020-10-14,San Francisco,13.63
+2020-10-14,Los Angeles,29.8
+2020-10-14,Dallas,41.16
+2020-10-14,San Jose,18.16
+2020-10-14,Austin,34.6
+2020-10-21,Washington,22.65
+2020-10-21,New York,16.37
+2020-10-21,Chicago,21.28
+2020-10-21,Houston,36.16
+2020-10-21,Philadelphia,27.68
+2020-10-21,San Francisco,13.8
+2020-10-21,Los Angeles,29.72
+2020-10-21,Dallas,41.44
+2020-10-21,San Jose,18.15
+2020-10-21,Austin,35.4
+2020-10-28,Washington,22.68
+2020-10-28,New York,16.16
+2020-10-28,Chicago,20.69
+2020-10-28,Houston,36.47
+2020-10-28,Philadelphia,27.1
+2020-10-28,San Francisco,14.23
+2020-10-28,Los Angeles,29.69
+2020-10-28,Dallas,40.93
+2020-10-28,San Jose,18.34
+2020-10-28,Austin,35.99
+2020-11-04,Washington,21.1
+2020-11-04,New York,14.27
+2020-11-04,Chicago,19.08
+2020-11-04,Houston,36.81
+2020-11-04,Philadelphia,25.97
+2020-11-04,San Francisco,13.47
+2020-11-04,Los Angeles,29.33
+2020-11-04,Dallas,40.83
+2020-11-04,San Jose,18.48
+2020-11-04,Austin,35.89
+2020-11-10,Washington,21.81
+2020-11-10,New York,15.58
+2020-11-10,Chicago,18.85
+2020-11-10,Houston,37.08
+2020-11-10,Philadelphia,26.3
+2020-11-10,San Francisco,13.71
+2020-11-10,Los Angeles,29.44
+2020-11-10,Dallas,41.47
+2020-11-10,San Jose,18.91
+2020-11-10,Austin,35.23
+2020-11-18,Washington,21.91
+2020-11-18,New York,15.59
+2020-11-18,Chicago,18.03
+2020-11-18,Houston,37.73
+2020-11-18,Philadelphia,25.91
+2020-11-18,San Francisco,13.7
+2020-11-18,Los Angeles,29.46
+2020-11-18,Dallas,40.68
+2020-11-18,San Jose,16.97
+2020-11-18,Austin,35.87
+2020-11-25,Washington,19.04
+2020-11-25,New York,13.43
+2020-11-25,Chicago,15.42
+2020-11-25,Houston,30.59
+2020-11-25,Philadelphia,22.85
+2020-11-25,San Francisco,12.31
+2020-11-25,Los Angeles,27.12
+2020-11-25,Dallas,33.61
+2020-11-25,San Jose,14
+2020-11-25,Austin,31.16
+2020-12-02,Washington,20.61
+2020-12-02,New York,13.98
+2020-12-02,Chicago,17.15
+2020-12-02,Houston,36.09
+2020-12-02,Philadelphia,23.04
+2020-12-02,San Francisco,12.96
+2020-12-02,Los Angeles,27.64
+2020-12-02,Dallas,38.67
+2020-12-02,San Jose,16.05
+2020-12-02,Austin,34.71
+2020-12-09,Washington,20.85
+2020-12-09,New York,13.97
+2020-12-09,Chicago,17.39
+2020-12-09,Houston,35.13
+2020-12-09,Philadelphia,23.32
+2020-12-09,San Francisco,12.15
+2020-12-09,Los Angeles,26.5
+2020-12-09,Dallas,37.44
+2020-12-09,San Jose,15.04
+2020-12-09,Austin,35.35
+2020-12-16,Washington,19.71
+2020-12-16,New York,13.62
+2020-12-16,Chicago,17.64
+2020-12-16,Houston,34.57
+2020-12-16,Philadelphia,22.77
+2020-12-16,San Francisco,11.93
+2020-12-16,Los Angeles,25.8
+2020-12-16,Dallas,36.8
+2020-12-16,San Jose,15.09
+2020-12-16,Austin,35.01
+2020-12-23,Washington,18.11
+2020-12-23,New York,10.47
+2020-12-23,Chicago,16.03
+2020-12-23,Houston,28.5
+2020-12-23,Philadelphia,20.34
+2020-12-23,San Francisco,11.02
+2020-12-23,Los Angeles,24.76
+2020-12-23,Dallas,32.08
+2020-12-23,San Jose,13.85
+2020-12-23,Austin,30.35
+2020-12-30,Washington,14.76
+2020-12-30,New York,9.4
+2020-12-30,Chicago,13.23
+2020-12-30,Houston,22.49
+2020-12-30,Philadelphia,18.68
+2020-12-30,San Francisco,9.2
+2020-12-30,Los Angeles,20.22
+2020-12-30,Dallas,26.96
+2020-12-30,San Jose,10.97
+2020-12-30,Austin,24.19
+2021-01-06,Washington,16
+2021-01-06,New York,11.28
+2021-01-06,Chicago,15.55
+2021-01-06,Houston,28.92
+2021-01-06,Philadelphia,21.49
+2021-01-06,San Francisco,9.87
+2021-01-06,Los Angeles,22.68
+2021-01-06,Dallas,31.67
+2021-01-06,San Jose,12.69
+2021-01-06,Austin,28.73
+2021-01-13,Washington,19.17
+2021-01-13,New York,13.24
+2021-01-13,Chicago,18.44
+2021-01-13,Houston,32.58
+2021-01-13,Philadelphia,24.4
+2021-01-13,San Francisco,11.7
+2021-01-13,Los Angeles,25.35
+2021-01-13,Dallas,35.62
+2021-01-13,San Jose,14.64
+2021-01-13,Austin,33.45
+2021-01-20,Washington,14.69
+2021-01-20,New York,13.34
+2021-01-20,Chicago,18.34
+2021-01-20,Houston,32.68
+2021-01-20,Philadelphia,24.25
+2021-01-20,San Francisco,11.88
+2021-01-20,Los Angeles,25.44
+2021-01-20,Dallas,36.07
+2021-01-20,San Jose,14.77
+2021-01-20,Austin,34.75
+2021-01-27,Washington,19.75
+2021-01-27,New York,13.82
+2021-01-27,Chicago,17.82
+2021-01-27,Houston,33.88
+2021-01-27,Philadelphia,24.68
+2021-01-27,San Francisco,12.15
+2021-01-27,Los Angeles,26.4
+2021-01-27,Dallas,36.92
+2021-01-27,San Jose,15.03
+2021-01-27,Austin,35.54
+2021-02-03,Washington,18.32
+2021-02-03,New York,10.06
+2021-02-03,Chicago,19.13
+2021-02-03,Houston,34.11
+2021-02-03,Philadelphia,18.08
+2021-02-03,San Francisco,12.33
+2021-02-03,Los Angeles,26.55
+2021-02-03,Dallas,36.8
+2021-02-03,San Jose,15.43
+2021-02-03,Austin,35.07
+2021-02-10,Washington,21.43
+2021-02-10,New York,13.86
+2021-02-10,Chicago,18.56
+2021-02-10,Houston,34.69
+2021-02-10,Philadelphia,24.92
+2021-02-10,San Francisco,12.77
+2021-02-10,Los Angeles,27.3
+2021-02-10,Dallas,35.98
+2021-02-10,San Jose,15.69
+2021-02-10,Austin,36.33
+2021-02-17,Washington,20.67
+2021-02-17,New York,13.66
+2021-02-17,Chicago,16.14
+2021-02-17,Houston,18.45
+2021-02-17,Philadelphia,23.97
+2021-02-17,San Francisco,12.55
+2021-02-17,Los Angeles,27.71
+2021-02-17,Dallas,13.81
+2021-02-17,San Jose,15.58
+2021-02-17,Austin,13.36
+2021-02-24,Washington,18.1
+2021-02-24,New York,13
+2021-02-24,Chicago,18.79
+2021-02-24,Houston,26.66
+2021-02-24,Philadelphia,20.97
+2021-02-24,San Francisco,13.08
+2021-02-24,Los Angeles,27.83
+2021-02-24,Dallas,25.88
+2021-02-24,San Jose,15.84
+2021-02-24,Austin,23.02
+2021-03-03,Washington,21.88
+2021-03-03,New York,14.52
+2021-03-03,Chicago,19.47
+2021-03-03,Houston,36.14
+2021-03-03,Philadelphia,25.69
+2021-03-03,San Francisco,13.45
+2021-03-03,Los Angeles,28.53
+2021-03-03,Dallas,37.6
+2021-03-03,San Jose,16.13
+2021-03-03,Austin,36.15
+2021-03-10,Washington,21.84
+2021-03-10,New York,14.88
+2021-03-10,Chicago,19.99
+2021-03-10,Houston,36.9
+2021-03-10,Philadelphia,25.8
+2021-03-10,San Francisco,13.48
+2021-03-10,Los Angeles,28.37
+2021-03-10,Dallas,37.53
+2021-03-10,San Jose,16.26
+2021-03-10,Austin,37.24
+2021-03-17,Washington,21.9
+2021-03-17,New York,14.67
+2021-03-17,Chicago,19.87
+2021-03-17,Houston,34
+2021-03-17,Philadelphia,25.47
+2021-03-17,San Francisco,13.65
+2021-03-17,Los Angeles,27.86
+2021-03-17,Dallas,36.55
+2021-03-17,San Jose,16.48
+2021-03-17,Austin,34.16
+2021-03-24,Washington,21.66
+2021-03-24,New York,14.23
+2021-03-24,Chicago,19.93
+2021-03-24,Houston,34.74
+2021-03-24,Philadelphia,25.49
+2021-03-24,San Francisco,13.69
+2021-03-24,Los Angeles,24.98
+2021-03-24,Dallas,38.09
+2021-03-24,San Jose,16.97
+2021-03-24,Austin,32.31
+2021-03-31,Washington,21.21
+2021-03-31,New York,13.95
+2021-03-31,Chicago,19.66
+2021-03-31,Houston,37.35
+2021-03-31,Philadelphia,25.3
+2021-03-31,San Francisco,13.69
+2021-03-31,Los Angeles,22.52
+2021-03-31,Dallas,39.69
+2021-03-31,San Jose,17.26
+2021-03-31,Austin,37.36
+2021-04-07,Washington,20.53
+2021-04-07,New York,13.53
+2021-04-07,Chicago,19.02
+2021-04-07,Houston,34.71
+2021-04-07,Philadelphia,24.6
+2021-04-07,San Francisco,13.38
+2021-04-07,Los Angeles,22.14
+2021-04-07,Dallas,38.46
+2021-04-07,San Jose,16.65
+2021-04-07,Austin,36.73
+2021-04-14,Washington,22.09
+2021-04-14,New York,15.4
+2021-04-14,Chicago,20.87
+2021-04-14,Houston,38.7
+2021-04-14,Philadelphia,26.51
+2021-04-14,San Francisco,14.17
+2021-04-14,Los Angeles,23.39
+2021-04-14,Dallas,41.04
+2021-04-14,San Jose,17.46
+2021-04-14,Austin,39.39
+2021-04-21,Washington,22.44
+2021-04-21,New York,15.82
+2021-04-21,Chicago,21.17
+2021-04-21,Houston,39.28
+2021-04-21,Philadelphia,26.62
+2021-04-21,San Francisco,14.24
+2021-04-21,Los Angeles,23.59
+2021-04-21,Dallas,41.16
+2021-04-21,San Jose,17.4
+2021-04-21,Austin,38.8
+2021-04-28,Washington,22.78
+2021-04-28,New York,16.2
+2021-04-28,Chicago,21.62
+2021-04-28,Houston,39.68
+2021-04-28,Philadelphia,27.07
+2021-04-28,San Francisco,14.82
+2021-04-28,Los Angeles,23.41
+2021-04-28,Dallas,41.23
+2021-04-28,San Jose,18.04
+2021-04-28,Austin,40.23
+2021-05-05,Washington,23.17
+2021-05-05,New York,16.26
+2021-05-05,Chicago,22.48
+2021-05-05,Houston,41.55
+2021-05-05,Philadelphia,26.81
+2021-05-05,San Francisco,15.19
+2021-05-05,Los Angeles,24.38
+2021-05-05,Dallas,41.78
+2021-05-05,San Jose,18.26
+2021-05-05,Austin,40.84
+2021-05-12,Washington,23.62
+2021-05-12,New York,16.98
+2021-05-12,Chicago,23.29
+2021-05-12,Houston,42.87
+2021-05-12,Philadelphia,27.2
+2021-05-12,San Francisco,15.64
+2021-05-12,Los Angeles,24.45
+2021-05-12,Dallas,42.28
+2021-05-12,San Jose,18.16
+2021-05-12,Austin,43.35
+2021-05-19,Washington,24.01
+2021-05-19,New York,16.75
+2021-05-19,Chicago,23.58
+2021-05-19,Houston,42.26
+2021-05-19,Philadelphia,27.64
+2021-05-19,San Francisco,16.23
+2021-05-19,Los Angeles,24.78
+2021-05-19,Dallas,43.09
+2021-05-19,San Jose,18.72
+2021-05-19,Austin,43.44
+2021-05-26,Washington,24.79
+2021-05-26,New York,18.19
+2021-05-26,Chicago,24.41
+2021-05-26,Houston,44.74
+2021-05-26,Philadelphia,27.87
+2021-05-26,San Francisco,16.81
+2021-05-26,Los Angeles,25.08
+2021-05-26,Dallas,43.46
+2021-05-26,San Jose,19.18
+2021-05-26,Austin,45.17
+2021-06-02,Washington,24.47
+2021-06-02,New York,18.21
+2021-06-02,Chicago,24.56
+2021-06-02,Houston,43.92
+2021-06-02,Philadelphia,27.54
+2021-06-02,San Francisco,16.7
+2021-06-02,Los Angeles,24.72
+2021-06-02,Dallas,46
+2021-06-02,San Jose,18.75
+2021-06-02,Austin,45.06
+2021-06-09,Washington,26.78
+2021-06-09,New York,20.74
+2021-06-09,Chicago,27.51
+2021-06-09,Houston,47.66
+2021-06-09,Philadelphia,29.53
+2021-06-09,San Francisco,18.22
+2021-06-09,Los Angeles,25.78
+2021-06-09,Dallas,49.67
+2021-06-09,San Jose,20.24
+2021-06-09,Austin,48.73
+2021-06-16,Washington,27.37
+2021-06-16,New York,21.7
+2021-06-16,Chicago,28.05
+2021-06-16,Houston,48.84
+2021-06-16,Philadelphia,29.9
+2021-06-16,San Francisco,18.72
+2021-06-16,Los Angeles,25.65
+2021-06-16,Dallas,49.21
+2021-06-16,San Jose,20.78
+2021-06-16,Austin,50.32
+2021-06-23,Washington,26.31
+2021-06-23,New York,21.4
+2021-06-23,Chicago,27.97
+2021-06-23,Houston,48.77
+2021-06-23,Philadelphia,29.48
+2021-06-23,San Francisco,18.93
+2021-06-23,Los Angeles,27.1
+2021-06-23,Dallas,49.28
+2021-06-23,San Jose,21.54
+2021-06-23,Austin,49.06
+2021-06-30,Washington,27.43
+2021-06-30,New York,21.9
+2021-06-30,Chicago,27.9
+2021-06-30,Houston,48.97
+2021-06-30,Philadelphia,29.73
+2021-06-30,San Francisco,19.3
+2021-06-30,Los Angeles,28.36
+2021-06-30,Dallas,50.12
+2021-06-30,San Jose,22.03
+2021-06-30,Austin,51.22
+2021-07-07,Washington,25.57
+2021-07-07,New York,20.16
+2021-07-07,Chicago,26.33
+2021-07-07,Houston,47.58
+2021-07-07,Philadelphia,29.31
+2021-07-07,San Francisco,18.13
+2021-07-07,Los Angeles,27.24
+2021-07-07,Dallas,47.34
+2021-07-07,San Jose,20.99
+2021-07-07,Austin,47.52
+2021-07-14,Washington,28.95
+2021-07-14,New York,23.98
+2021-07-14,Chicago,31.09
+2021-07-14,Houston,51.23
+2021-07-14,Philadelphia,32.43
+2021-07-14,San Francisco,20.8
+2021-07-14,Los Angeles,29.86
+2021-07-14,Dallas,50.73
+2021-07-14,San Jose,23.01
+2021-07-14,Austin,52.65
+2021-07-21,Washington,29.68
+2021-07-21,New York,24.47
+2021-07-21,Chicago,31.82
+2021-07-21,Houston,51.63
+2021-07-21,Philadelphia,32.82
+2021-07-21,San Francisco,21.23
+2021-07-21,Los Angeles,29.71
+2021-07-21,Dallas,50.05
+2021-07-21,San Jose,23.57
+2021-07-21,Austin,53.48
+2021-07-28,Washington,29.22
+2021-07-28,New York,24.18
+2021-07-28,Chicago,31.91
+2021-07-28,Houston,50.71
+2021-07-28,Philadelphia,33.13
+2021-07-28,San Francisco,20.98
+2021-07-28,Los Angeles,28.83
+2021-07-28,Dallas,49.57
+2021-07-28,San Jose,22.98
+2021-07-28,Austin,51.41
+2021-08-04,Washington,27.99
+2021-08-04,New York,23.41
+2021-08-04,Chicago,30.06
+2021-08-04,Houston,49.28
+2021-08-04,Philadelphia,32.16
+2021-08-04,San Francisco,19.57
+2021-08-04,Los Angeles,28.55
+2021-08-04,Dallas,47.91
+2021-08-04,San Jose,23.29
+2021-08-04,Austin,47
+2021-08-11,Washington,26.75
+2021-08-11,New York,22.94
+2021-08-11,Chicago,29.49
+2021-08-11,Houston,46.85
+2021-08-11,Philadelphia,32.45
+2021-08-11,San Francisco,19.2
+2021-08-11,Los Angeles,28.21
+2021-08-11,Dallas,45.97
+2021-08-11,San Jose,22.92
+2021-08-11,Austin,45.87
+2021-08-18,Washington,25.96
+2021-08-18,New York,21.82
+2021-08-18,Chicago,28.91
+2021-08-18,Houston,45.69
+2021-08-18,Philadelphia,31.7
+2021-08-18,San Francisco,18.99
+2021-08-18,Los Angeles,27.72
+2021-08-18,Dallas,45.25
+2021-08-18,San Jose,22.4
+2021-08-18,Austin,44.13
+2021-08-25,Washington,28.08
+2021-08-25,New York,22.31
+2021-08-25,Chicago,30.44
+2021-08-25,Houston,48.25
+2021-08-25,Philadelphia,33.43
+2021-08-25,San Francisco,19.66
+2021-08-25,Los Angeles,29.04
+2021-08-25,Dallas,46.76
+2021-08-25,San Jose,24.74
+2021-08-25,Austin,48.53
+2021-09-01,Washington,27.46
+2021-09-01,New York,20.85
+2021-09-01,Chicago,28.81
+2021-09-01,Houston,46.29
+2021-09-01,Philadelphia,31.32
+2021-09-01,San Francisco,18.92
+2021-09-01,Los Angeles,28.67
+2021-09-01,Dallas,44.3
+2021-09-01,San Jose,23.18
+2021-09-01,Austin,46.51
+2021-09-08,Washington,28.08
+2021-09-08,New York,19.48
+2021-09-08,Chicago,27.96
+2021-09-08,Houston,45.36
+2021-09-08,Philadelphia,29.05
+2021-09-08,San Francisco,18.98
+2021-09-08,Los Angeles,28.83
+2021-09-08,Dallas,42.55
+2021-09-08,San Jose,23.38
+2021-09-08,Austin,45.22
+2021-09-15,Washington,31.26
+2021-09-15,New York,28.14
+2021-09-15,Chicago,30.86
+2021-09-15,Houston,40.48
+2021-09-15,Philadelphia,34.16
+2021-09-15,San Francisco,20.86
+2021-09-15,Los Angeles,31.11
+2021-09-15,Dallas,45.67
+2021-09-15,San Jose,25.97
+2021-09-15,Austin,47.37
+2021-09-22,Washington,31.25
+2021-09-22,New York,27.61
+2021-09-22,Chicago,30.75
+2021-09-22,Houston,48.73
+2021-09-22,Philadelphia,33.63
+2021-09-22,San Francisco,21.16
+2021-09-22,Los Angeles,30.97
+2021-09-22,Dallas,45.6
+2021-09-22,San Jose,25.9
+2021-09-22,Austin,48.02
+2021-09-29,Washington,31.77
+2021-09-29,New York,28.86
+2021-09-29,Chicago,31.44
+2021-09-29,Houston,48.58
+2021-09-29,Philadelphia,34.52
+2021-09-29,San Francisco,22.49
+2021-09-29,Los Angeles,31.5
+2021-09-29,Dallas,46.13
+2021-09-29,San Jose,26.24
+2021-09-29,Austin,48.54
+2021-10-06,Washington,32.62
+2021-10-06,New York,29.6
+2021-10-06,Chicago,32
+2021-10-06,Houston,50.25
+2021-10-06,Philadelphia,35.57
+2021-10-06,San Francisco,24.44
+2021-10-06,Los Angeles,32.24
+2021-10-06,Dallas,46.8
+2021-10-06,San Jose,26.64
+2021-10-06,Austin,51.07
+2021-10-13,Washington,32.79
+2021-10-13,New York,31.15
+2021-10-13,Chicago,31.94
+2021-10-13,Houston,50.26
+2021-10-13,Philadelphia,35.79
+2021-10-13,San Francisco,25.15
+2021-10-13,Los Angeles,33.09
+2021-10-13,Dallas,47.24
+2021-10-13,San Jose,27.05
+2021-10-13,Austin,47.69
+2021-10-20,Washington,33.4
+2021-10-20,New York,31.79
+2021-10-20,Chicago,33.09
+2021-10-20,Houston,51.37
+2021-10-20,Philadelphia,36.15
+2021-10-20,San Francisco,25.4
+2021-10-20,Los Angeles,33.67
+2021-10-20,Dallas,47.77
+2021-10-20,San Jose,27.47
+2021-10-20,Austin,48.91
+2021-10-27,Washington,33.33
+2021-10-27,New York,30.14
+2021-10-27,Chicago,32.5
+2021-10-27,Houston,50.65
+2021-10-27,Philadelphia,36.5
+2021-10-27,San Francisco,25.11
+2021-10-27,Los Angeles,33.42
+2021-10-27,Dallas,48.46
+2021-10-27,San Jose,27.11
+2021-10-27,Austin,50.42
+2021-11-03,Washington,33.37
+2021-11-03,New York,33.89
+2021-11-03,Chicago,33.77
+2021-11-03,Houston,51.4
+2021-11-03,Philadelphia,36.56
+2021-11-03,San Francisco,25.8
+2021-11-03,Los Angeles,34.32
+2021-11-03,Dallas,48.46
+2021-11-03,San Jose,28.22
+2021-11-03,Austin,51.96
+2021-11-10,Washington,34.92
+2021-11-10,New York,35.34
+2021-11-10,Chicago,34.28
+2021-11-10,Houston,52.25
+2021-11-10,Philadelphia,37.29
+2021-11-10,San Francisco,26.67
+2021-11-10,Los Angeles,35.5
+2021-11-10,Dallas,49.78
+2021-11-10,San Jose,28.55
+2021-11-10,Austin,55.3
+2021-11-17,Washington,34.54
+2021-11-17,New York,34.68
+2021-11-17,Chicago,33.48
+2021-11-17,Houston,51.84
+2021-11-17,Philadelphia,36.78
+2021-11-17,San Francisco,26.74
+2021-11-17,Los Angeles,35.47
+2021-11-17,Dallas,49.03
+2021-11-17,San Jose,29.42
+2021-11-17,Austin,55.61
+2021-11-24,Washington,28.74
+2021-11-24,New York,28.31
+2021-11-24,Chicago,27.55
+2021-11-24,Houston,41.96
+2021-11-24,Philadelphia,32.44
+2021-11-24,San Francisco,21.84
+2021-11-24,Los Angeles,31.68
+2021-11-24,Dallas,41.56
+2021-11-24,San Jose,24.93
+2021-11-24,Austin,45.99
+2021-12-01,Washington,35.85
+2021-12-01,New York,37.04
+2021-12-01,Chicago,35.2
+2021-12-01,Houston,54.95
+2021-12-01,Philadelphia,38.06
+2021-12-01,San Francisco,28.19
+2021-12-01,Los Angeles,36.33
+2021-12-01,Dallas,52.34
+2021-12-01,San Jose,29.03
+2021-12-01,Austin,59.34
+2021-12-08,Washington,35.46
+2021-12-08,New York,35.81
+2021-12-08,Chicago,34.34
+2021-12-08,Houston,53.61
+2021-12-08,Philadelphia,37.19
+2021-12-08,San Francisco,28.76
+2021-12-08,Los Angeles,35.79
+2021-12-08,Dallas,50.8
+2021-12-08,San Jose,29.03
+2021-12-08,Austin,57.33
+2021-12-15,Washington,35.99
+2021-12-15,New York,34.46
+2021-12-15,Chicago,34.06
+2021-12-15,Houston,52.33
+2021-12-15,Philadelphia,37.16
+2021-12-15,San Francisco,28.36
+2021-12-15,Los Angeles,34.92
+2021-12-15,Dallas,50.93
+2021-12-15,San Jose,28.51
+2021-12-15,Austin,58.28
+2021-12-22,Washington,26.82
+2021-12-22,New York,20.67
+2021-12-22,Chicago,24.59
+2021-12-22,Houston,40.43
+2021-12-22,Philadelphia,32.36
+2021-12-22,San Francisco,19.9
+2021-12-22,Los Angeles,29.82
+2021-12-22,Dallas,41.46
+2021-12-22,San Jose,23.32
+2021-12-22,Austin,43.9
+2021-12-29,Washington,14.89
+2021-12-29,New York,10.61
+2021-12-29,Chicago,13.79
+2021-12-29,Houston,23.29
+2021-12-29,Philadelphia,20.2
+2021-12-29,San Francisco,10.92
+2021-12-29,Los Angeles,18.87
+2021-12-29,Dallas,26.21
+2021-12-29,San Jose,13.32
+2021-12-29,Austin,23.38
+2022-01-05,Washington,14.72
+2022-01-05,New York,14.61
+2022-01-05,Chicago,19.47
+2022-01-05,Houston,34.37
+2022-01-05,Philadelphia,23.91
+2022-01-05,San Francisco,14.68
+2022-01-05,Los Angeles,23.41
+2022-01-05,Dallas,35.07
+2022-01-05,San Jose,17.66
+2022-01-05,Austin,35.56
+2022-01-12,Washington,23.33
+2022-01-12,New York,18.11
+2022-01-12,Chicago,23.95
+2022-01-12,Houston,41.9
+2022-01-12,Philadelphia,26.5
+2022-01-12,San Francisco,17.37
+2022-01-12,Los Angeles,26.03
+2022-01-12,Dallas,39.96
+2022-01-12,San Jose,20.07
+2022-01-12,Austin,41.85
+2022-01-19,Washington,26.64
+2022-01-19,New York,21.61
+2022-01-19,Chicago,27.55
+2022-01-19,Houston,43.42
+2022-01-19,Philadelphia,29.95
+2022-01-19,San Francisco,18.03
+2022-01-19,Los Angeles,27.53
+2022-01-19,Dallas,40.93
+2022-01-19,San Jose,21.89
+2022-01-19,Austin,43.74
+2022-01-26,Washington,27.44
+2022-01-26,New York,23.27
+2022-01-26,Chicago,27.05
+2022-01-26,Houston,45.17
+2022-01-26,Philadelphia,30.75
+2022-01-26,San Francisco,19.67
+2022-01-26,Los Angeles,29.46
+2022-01-26,Dallas,42.85
+2022-01-26,San Jose,23.22
+2022-01-26,Austin,43.53
+2022-02-02,Washington,29.94
+2022-02-02,New York,25.79
+2022-02-02,Chicago,26.02
+2022-02-02,Houston,47.44
+2022-02-02,Philadelphia,31.84
+2022-02-02,San Francisco,21.54
+2022-02-02,Los Angeles,30.9
+2022-02-02,Dallas,44.76
+2022-02-02,San Jose,23.96
+2022-02-02,Austin,47.74
+2022-02-09,Washington,31.34
+2022-02-09,New York,28.56
+2022-02-09,Chicago,29.46
+2022-02-09,Houston,45.54
+2022-02-09,Philadelphia,32.94
+2022-02-09,San Francisco,23.3
+2022-02-09,Los Angeles,32.51
+2022-02-09,Dallas,31.13
+2022-02-09,San Jose,26.55
+2022-02-09,Austin,35.15
+2022-02-16,Washington,32.25
+2022-02-16,New York,30.83
+2022-02-16,Chicago,31.64
+2022-02-16,Houston,50.14
+2022-02-16,Philadelphia,34.37
+2022-02-16,San Francisco,24.69
+2022-02-16,Los Angeles,33.58
+2022-02-16,Dallas,47.42
+2022-02-16,San Jose,27.16
+2022-02-16,Austin,51.83
+2022-02-23,Washington,32.94
+2022-02-23,New York,30.77
+2022-02-23,Chicago,30.29
+2022-02-23,Houston,51.34
+2022-02-23,Philadelphia,35.85
+2022-02-23,San Francisco,26.11
+2022-02-23,Los Angeles,35.29
+2022-02-23,Dallas,44.09
+2022-02-23,San Jose,27.66
+2022-02-23,Austin,53.42
+2022-03-02,Washington,35.02
+2022-03-02,New York,33.8
+2022-03-02,Chicago,33.57
+2022-03-02,Houston,51.74
+2022-03-02,Philadelphia,36.65
+2022-03-02,San Francisco,27.62
+2022-03-02,Los Angeles,37.27
+2022-03-02,Dallas,40.92
+2022-03-02,San Jose,29.28
+2022-03-02,Austin,53.93
+2022-03-09,Washington,36.32
+2022-03-09,New York,36.47
+2022-03-09,Chicago,34.63
+2022-03-09,Houston,52.41
+2022-03-09,Philadelphia,37.05
+2022-03-09,San Francisco,29.36
+2022-03-09,Los Angeles,38.43
+2022-03-09,Dallas,50.67
+2022-03-09,San Jose,30.96
+2022-03-09,Austin,58.29
+2022-03-16,Washington,37.64
+2022-03-16,New York,37.25
+2022-03-16,Chicago,36.44
+2022-03-16,Houston,48.06
+2022-03-16,Philadelphia,37.6
+2022-03-16,San Francisco,30.12
+2022-03-16,Los Angeles,39.43
+2022-03-16,Dallas,46.64
+2022-03-16,San Jose,30.14
+2022-03-16,Austin,52.14
+2022-03-23,Washington,37.41
+2022-03-23,New York,36.11
+2022-03-23,Chicago,35.04
+2022-03-23,Houston,49.1
+2022-03-23,Philadelphia,37.43
+2022-03-23,San Francisco,31.22
+2022-03-23,Los Angeles,39.53
+2022-03-23,Dallas,49.11
+2022-03-23,San Jose,32.06
+2022-03-23,Austin,52.9
+2022-03-30,Washington,38.3
+2022-03-30,New York,36.86
+2022-03-30,Chicago,34.53
+2022-03-30,Houston,54.28
+2022-03-30,Philadelphia,37.74
+2022-03-30,San Francisco,31.76
+2022-03-30,Los Angeles,39.92
+2022-03-30,Dallas,51.37
+2022-03-30,San Jose,33.48
+2022-03-30,Austin,61.65
+2022-04-06,Washington,38.92
+2022-04-06,New York,38.34
+2022-04-06,Chicago,37.77
+2022-04-06,Houston,55.52
+2022-04-06,Philadelphia,38.57
+2022-04-06,San Francisco,34.18
+2022-04-06,Los Angeles,40.91
+2022-04-06,Dallas,50.87
+2022-04-06,San Jose,33.02
+2022-04-06,Austin,63.03
+2022-04-13,Washington,37.46
+2022-04-13,New York,37.05
+2022-04-13,Chicago,37.77
+2022-04-13,Houston,56.32
+2022-04-13,Philadelphia,37.81
+2022-04-13,San Francisco,34.59
+2022-04-13,Los Angeles,41.15
+2022-04-13,Dallas,51.76
+2022-04-13,San Jose,31.78
+2022-04-13,Austin,62.4
+2022-04-20,Washington,36.57
+2022-04-20,New York,32.9
+2022-04-20,Chicago,37.11
+2022-04-20,Houston,50.94
+2022-04-20,Philadelphia,35.28
+2022-04-20,San Francisco,33.42
+2022-04-20,Los Angeles,39.77
+2022-04-20,Dallas,48.96
+2022-04-20,San Jose,31.03
+2022-04-20,Austin,58.85
+2022-04-27,Washington,40.4
+2022-04-27,New York,37.44
+2022-04-27,Chicago,39.8
+2022-04-27,Houston,55.73
+2022-04-27,Philadelphia,38.43
+2022-04-27,San Francisco,35.35
+2022-04-27,Los Angeles,40.9
+2022-04-27,Dallas,51.34
+2022-04-27,San Jose,34.16
+2022-04-27,Austin,60.41
+2022-05-04,Washington,40.11
+2022-05-04,New York,38.06
+2022-05-04,Chicago,38.8
+2022-05-04,Houston,56.69
+2022-05-04,Philadelphia,38.42
+2022-05-04,San Francisco,34.33
+2022-05-04,Los Angeles,41.46
+2022-05-04,Dallas,50.62
+2022-05-04,San Jose,33.33
+2022-05-04,Austin,60.3
+2022-05-11,Washington,40
+2022-05-11,New York,38.82
+2022-05-11,Chicago,39.02
+2022-05-11,Houston,56.7
+2022-05-11,Philadelphia,38.23
+2022-05-11,San Francisco,34.6
+2022-05-11,Los Angeles,41.48
+2022-05-11,Dallas,51.81
+2022-05-11,San Jose,33.7
+2022-05-11,Austin,59.54
+2022-05-18,Washington,39.31
+2022-05-18,New York,38.18
+2022-05-18,Chicago,39.11
+2022-05-18,Houston,56.39
+2022-05-18,Philadelphia,37.95
+2022-05-18,San Francisco,33.38
+2022-05-18,Los Angeles,40.39
+2022-05-18,Dallas,52.55
+2022-05-18,San Jose,34.28
+2022-05-18,Austin,61.19
+2022-05-25,Washington,39.06
+2022-05-25,New York,37.98
+2022-05-25,Chicago,39.95
+2022-05-25,Houston,55.98
+2022-05-25,Philadelphia,38.14
+2022-05-25,San Francisco,33.61
+2022-05-25,Los Angeles,41.01
+2022-05-25,Dallas,51.27
+2022-05-25,San Jose,33.93
+2022-05-25,Austin,58.54
+2022-06-01,Washington,37.26
+2022-06-01,New York,36.63
+2022-06-01,Chicago,37.21
+2022-06-01,Houston,53.84
+2022-06-01,Philadelphia,36.69
+2022-06-01,San Francisco,31.61
+2022-06-01,Los Angeles,40.48
+2022-06-01,Dallas,50.15
+2022-06-01,San Jose,32.11
+2022-06-01,Austin,56.12
+2022-06-08,Washington,41.3
+2022-06-08,New York,41.19
+2022-06-08,Chicago,41.4
+2022-06-08,Houston,56.16
+2022-06-08,Philadelphia,38.19
+2022-06-08,San Francisco,33.99
+2022-06-08,Los Angeles,41.6
+2022-06-08,Dallas,50.94
+2022-06-08,San Jose,33.81
+2022-06-08,Austin,61.32
+2022-06-15,Washington,41.23
+2022-06-15,New York,42.17
+2022-06-15,Chicago,41.88
+2022-06-15,Houston,55.83
+2022-06-15,Philadelphia,38.45
+2022-06-15,San Francisco,35.03
+2022-06-15,Los Angeles,41.17
+2022-06-15,Dallas,51.47
+2022-06-15,San Jose,33.98
+2022-06-15,Austin,59.29
+2022-06-22,Washington,40.64
+2022-06-22,New York,42.53
+2022-06-22,Chicago,41.94
+2022-06-22,Houston,55.6
+2022-06-22,Philadelphia,38.22
+2022-06-22,San Francisco,35.7
+2022-06-22,Los Angeles,41.83
+2022-06-22,Dallas,51.49
+2022-06-22,San Jose,34.51
+2022-06-22,Austin,59.16
+2022-06-29,Washington,40.18
+2022-06-29,New York,41.24
+2022-06-29,Chicago,41.59
+2022-06-29,Houston,55.63
+2022-06-29,Philadelphia,38
+2022-06-29,San Francisco,34.72
+2022-06-29,Los Angeles,41.02
+2022-06-29,Dallas,51.48
+2022-06-29,San Jose,35.73
+2022-06-29,Austin,58.86
+2022-07-06,Washington,35.95
+2022-07-06,New York,35.69
+2022-07-06,Chicago,36.39
+2022-07-06,Houston,51.09
+2022-07-06,Philadelphia,34.34
+2022-07-06,San Francisco,30.05
+2022-07-06,Los Angeles,38.51
+2022-07-06,Dallas,49.03
+2022-07-06,San Jose,31.23
+2022-07-06,Austin,54.02
+2022-07-13,Washington,40.4
+2022-07-13,New York,40.73
+2022-07-13,Chicago,42.19
+2022-07-13,Houston,54.94
+2022-07-13,Philadelphia,38.04
+2022-07-13,San Francisco,38.13
+2022-07-13,Los Angeles,41.78
+2022-07-13,Dallas,51.96
+2022-07-13,San Jose,34.41
+2022-07-13,Austin,58.09
+2022-07-20,Washington,41.11
+2022-07-20,New York,41.04
+2022-07-20,Chicago,43.15
+2022-07-20,Houston,55.13
+2022-07-20,Philadelphia,38.92
+2022-07-20,San Francisco,39.1
+2022-07-20,Los Angeles,41.8
+2022-07-20,Dallas,51.05
+2022-07-20,San Jose,36.46
+2022-07-20,Austin,59.09
+2022-07-27,Washington,40.28
+2022-07-27,New York,40.53
+2022-07-27,Chicago,42.39
+2022-07-27,Houston,55.03
+2022-07-27,Philadelphia,38.33
+2022-07-27,San Francisco,39.11
+2022-07-27,Los Angeles,41.97
+2022-07-27,Dallas,49.49
+2022-07-27,San Jose,35.42
+2022-07-27,Austin,57.62
+2022-08-03,Washington,39.25
+2022-08-03,New York,40.05
+2022-08-03,Chicago,40.98
+2022-08-03,Houston,54.82
+2022-08-03,Philadelphia,38.16
+2022-08-03,San Francisco,37.5
+2022-08-03,Los Angeles,43.02
+2022-08-03,Dallas,50.58
+2022-08-03,San Jose,34.6
+2022-08-03,Austin,57.43
+2022-08-10,Washington,37.52
+2022-08-10,New York,38.29
+2022-08-10,Chicago,40.11
+2022-08-10,Houston,54.71
+2022-08-10,Philadelphia,38.01
+2022-08-10,San Francisco,37.77
+2022-08-10,Los Angeles,42.95
+2022-08-10,Dallas,50.4
+2022-08-10,San Jose,34.04
+2022-08-10,Austin,58.17
+2022-08-17,Washington,37.15
+2022-08-17,New York,37.58
+2022-08-17,Chicago,40.51
+2022-08-17,Houston,55.45
+2022-08-17,Philadelphia,37.1
+2022-08-17,San Francisco,38.4
+2022-08-17,Los Angeles,43.49
+2022-08-17,Dallas,51.96
+2022-08-17,San Jose,34.77
+2022-08-17,Austin,58.53
+2022-08-24,Washington,37.94
+2022-08-24,New York,35.28
+2022-08-24,Chicago,42.49
+2022-08-24,Houston,55.09
+2022-08-24,Philadelphia,36.24
+2022-08-24,San Francisco,38.49
+2022-08-24,Los Angeles,43.7
+2022-08-24,Dallas,50.9
+2022-08-24,San Jose,35.39
+2022-08-24,Austin,54.77
+2022-08-31,Washington,39.44
+2022-08-31,New York,34.46
+2022-08-31,Chicago,42.63
+2022-08-31,Houston,55.45
+2022-08-31,Philadelphia,37.5
+2022-08-31,San Francisco,38.44
+2022-08-31,Los Angeles,43.31
+2022-08-31,Dallas,52.5
+2022-08-31,San Jose,33.72
+2022-08-31,Austin,60.38
+2022-09-07,Washington,39.99
+2022-09-07,New York,37.96
+2022-09-07,Chicago,41.81
+2022-09-07,Houston,54.36
+2022-09-07,Philadelphia,36.73
+2022-09-07,San Francisco,38.44
+2022-09-07,Los Angeles,43.04
+2022-09-07,Dallas,50.78
+2022-09-07,San Jose,34.02
+2022-09-07,Austin,57.16
+2022-09-14,Washington,44.68
+2022-09-14,New York,46.64
+2022-09-14,Chicago,45.02
+2022-09-14,Houston,56.78
+2022-09-14,Philadelphia,40.75
+2022-09-14,San Francisco,40.7
+2022-09-14,Los Angeles,45.62
+2022-09-14,Dallas,54.86
+2022-09-14,San Jose,39.49
+2022-09-14,Austin,60.48
+2022-09-21,Washington,44.45
+2022-09-21,New York,46.14
+2022-09-21,Chicago,45.19
+2022-09-21,Houston,57.57
+2022-09-21,Philadelphia,40.83
+2022-09-21,San Francisco,39.16
+2022-09-21,Los Angeles,45.05
+2022-09-21,Dallas,53.77
+2022-09-21,San Jose,40.41
+2022-09-21,Austin,60.48
+2022-09-28,Washington,44.27
+2022-09-28,New York,43.47
+2022-09-28,Chicago,45.54
+2022-09-28,Houston,58.02
+2022-09-28,Philadelphia,39.43
+2022-09-28,San Francisco,39.74
+2022-09-28,Los Angeles,44.64
+2022-09-28,Dallas,54.67
+2022-09-28,San Jose,40.07
+2022-09-28,Austin,61.93
+2022-10-05,Washington,43.97
+2022-10-05,New York,43.8
+2022-10-05,Chicago,45.22
+2022-10-05,Houston,58.13
+2022-10-05,Philadelphia,39.48
+2022-10-05,San Francisco,40.08
+2022-10-05,Los Angeles,45.01
+2022-10-05,Dallas,53.68
+2022-10-05,San Jose,41.64
+2022-10-05,Austin,63.06
+2022-10-12,Washington,45.86
+2022-10-12,New York,47.83
+2022-10-12,Chicago,46.16
+2022-10-12,Houston,58.63
+2022-10-12,Philadelphia,41.5
+2022-10-12,San Francisco,41.95
+2022-10-12,Los Angeles,46.59
+2022-10-12,Dallas,54.31
+2022-10-12,San Jose,43.22
+2022-10-12,Austin,64.3
+2022-10-19,Washington,44.59
+2022-10-19,New York,46.48
+2022-10-19,Chicago,45.01
+2022-10-19,Houston,58.39
+2022-10-19,Philadelphia,40.42
+2022-10-19,San Francisco,41.24
+2022-10-19,Los Angeles,46.05
+2022-10-19,Dallas,53.95
+2022-10-19,San Jose,40.84
+2022-10-19,Austin,61.64
+2022-10-26,Washington,44.27
+2022-10-26,New York,46.74
+2022-10-26,Chicago,44.52
+2022-10-26,Houston,57.78
+2022-10-26,Philadelphia,39.98
+2022-10-26,San Francisco,40.88
+2022-10-26,Los Angeles,46.25
+2022-10-26,Dallas,53.85
+2022-10-26,San Jose,39.91
+2022-10-26,Austin,61.79
+2022-11-02,Washington,43.94
+2022-11-02,New York,46.72
+2022-11-02,Chicago,45.35
+2022-11-02,Houston,56.91
+2022-11-02,Philadelphia,40.28
+2022-11-02,San Francisco,40.56
+2022-11-02,Los Angeles,45
+2022-11-02,Dallas,52.91
+2022-11-02,San Jose,39.82
+2022-11-02,Austin,61.94
+2022-11-09,Washington,44.71
+2022-11-09,New York,47.24
+2022-11-09,Chicago,45.99
+2022-11-09,Houston,56.62
+2022-11-09,Philadelphia,40.92
+2022-11-09,San Francisco,41.55
+2022-11-09,Los Angeles,44.65
+2022-11-09,Dallas,53.77
+2022-11-09,San Jose,37.48
+2022-11-09,Austin,62.16
+2022-11-16,Washington,44.55
+2022-11-16,New York,47.62
+2022-11-16,Chicago,46.04
+2022-11-16,Houston,58.54
+2022-11-16,Philadelphia,41.18
+2022-11-16,San Francisco,43.11
+2022-11-16,Los Angeles,46.12
+2022-11-16,Dallas,54.03
+2022-11-16,San Jose,37.01
+2022-11-16,Austin,62.68
+2022-11-23,Washington,33.96
+2022-11-23,New York,36.72
+2022-11-23,Chicago,35.08
+2022-11-23,Houston,46.09
+2022-11-23,Philadelphia,35.32
+2022-11-23,San Francisco,32.75
+2022-11-23,Los Angeles,38.17
+2022-11-23,Dallas,42.94
+2022-11-23,San Jose,29.08
+2022-11-23,Austin,48.19
+2022-11-30,Washington,45.08
+2022-11-30,New York,49.62
+2022-11-30,Chicago,48.72
+2022-11-30,Houston,58.56
+2022-11-30,Philadelphia,42.73
+2022-11-30,San Francisco,42.15
+2022-11-30,Los Angeles,45.94
+2022-11-30,Dallas,55.99
+2022-11-30,San Jose,35.7
+2022-11-30,Austin,65.73
+2022-12-07,Washington,45.17
+2022-12-07,New York,47.81
+2022-12-07,Chicago,48.1
+2022-12-07,Houston,59.56
+2022-12-07,Philadelphia,41.08
+2022-12-07,San Francisco,41.84
+2022-12-07,Los Angeles,45.29
+2022-12-07,Dallas,53.05
+2022-12-07,San Jose,36.6
+2022-12-07,Austin,65.12
+2022-12-14,Washington,45.29
+2022-12-14,New York,48.11
+2022-12-14,Chicago,48.45
+2022-12-14,Houston,58.83
+2022-12-14,Philadelphia,41.53
+2022-12-14,San Francisco,42.46
+2022-12-14,Los Angeles,44.82
+2022-12-14,Dallas,53.71
+2022-12-14,San Jose,35.45
+2022-12-14,Austin,63.71
+2022-12-21,Washington,35.57
+2022-12-21,New York,38.46
+2022-12-21,Chicago,41.91
+2022-12-21,Houston,50.14
+2022-12-21,Philadelphia,37.75
+2022-12-21,San Francisco,32.31
+2022-12-21,Los Angeles,40
+2022-12-21,Dallas,48.08
+2022-12-21,San Jose,31.38
+2022-12-21,Austin,52.45
+2022-12-28,Washington,18.41
+2022-12-28,New York,18.17
+2022-12-28,Chicago,17.52
+2022-12-28,Houston,27.88
+2022-12-28,Philadelphia,23.71
+2022-12-28,San Francisco,16.2
+2022-12-28,Los Angeles,25.04
+2022-12-28,Dallas,26.8
+2022-12-28,San Jose,15.35
+2022-12-28,Austin,24.79
+2023-01-04,Washington,30.67
+2023-01-04,New York,30.93
+2023-01-04,Chicago,33.17
+2023-01-04,Houston,43.86
+2023-01-04,Philadelphia,32.18
+2023-01-04,San Francisco,20.81
+2023-01-04,Los Angeles,32.94
+2023-01-04,Dallas,40.68
+2023-01-04,San Jose,18.75
+2023-01-04,Austin,43.78
+2023-01-11,Austin,65.1
+2023-01-18,Austin,65.1
+2023-01-25,Austin,67.7
+2023-02-01,Austin,42.2
+2023-02-08,Austin,57.6
+2023-02-15,Austin,65.3
+2023-02-22,Austin,66.4
+2023-03-01,Austin,68.1
+2023-03-08,Austin,65.7
+2023-03-15,Austin,55.5
+2023-03-22,Austin,58
+2023-03-29,Austin,64.6
+2023-04-05,Austin,63.6
+2023-04-12,Austin,60
+2023-04-19,Austin,63.2
+2023-04-26,Austin,61.7
+2023-05-03,Austin,63.1
+2023-05-10,Austin,60.6
+2023-05-17,Austin,59.9
+2023-05-24,Austin,57.5
+2023-05-31,Austin,56.1
+2023-06-07,Austin,58.6
+2023-06-14,Austin,58.3
+2023-06-21,Austin,58.2
+2023-06-28,Austin,59.4
+2023-07-05,Austin,45.3
+2023-07-12,Austin,57.3
+2023-07-19,Austin,57.9
+2023-07-26,Austin,54.8
+2023-08-02,Austin,58
+2023-08-09,Austin,56.5
+2023-08-16,Austin,56.3
+2023-08-23,Austin,57.9
+2023-08-30,Austin,59.3
+2023-09-06,Austin,57.6
+2023-09-13,Austin,59.3
+2023-09-20,Austin,58.3
+2023-09-27,Austin,58.9
+2023-10-04,Austin,60.2
+2023-10-11,Austin,58.6
+2023-10-18,Austin,60
+2023-10-25,Austin,57.6
+2023-11-01,Austin,58.3
+2023-11-08,Austin,59.3
+2023-11-15,Austin,59.3
+2023-11-22,Austin,46.1
+2023-11-29,Austin,58.6
+2023-12-06,Austin,65.3
+2023-12-13,Austin,63.3
+2023-12-20,Austin,56.7
+2023-12-27,Austin,26.6
+2024-01-03,Austin,38.6
+2024-01-10,Austin,60.3
+2024-01-17,Austin,58.4
+2024-01-24,Austin,63.3
+2024-01-31,Austin,65.5
+2024-02-07,Austin,63
+2024-02-14,Austin,62.4
+2024-02-21,Austin,64.9
+2024-02-28,Austin,65.8
+2024-03-06,Austin,67.4
+2024-03-13,Austin,58.1
+2024-03-20,Austin,62.2
+2024-03-27,Austin,66.6
+2024-04-03,Austin,61.4
+2024-04-10,Austin,60
+2024-04-17,Austin,67.4
+2024-04-24,Austin,64.9
+2024-05-01,Austin,63.2
+2024-05-08,Austin,63.6
+2024-05-15,Austin,62.7
+2024-05-22,Austin,62.1
+2024-05-29,Austin,59.8
+2024-06-05,Austin,63
+2024-06-12,Austin,63.9
+2024-06-19,Austin,62.8
+2024-06-26,Austin,62.8
+2024-07-03,Austin,58.4
+2024-07-10,Austin,48.8
+2024-07-17,Austin,62.8
+2024-07-24,Austin,61
+2024-07-31,Austin,61.2
+2024-08-07,Austin,60.6
+2024-08-14,Austin,57.9
+2024-08-21,Austin,60
+2024-08-28,Austin,62.7
+2023-01-11,Chicago,48.1
+2023-01-18,Chicago,50.7
+2023-01-25,Chicago,50.6
+2023-02-01,Chicago,50
+2023-02-08,Chicago,50.7
+2023-02-15,Chicago,49.3
+2023-02-22,Chicago,49.4
+2023-03-01,Chicago,50.4
+2023-03-08,Chicago,50.3
+2023-03-15,Chicago,50.7
+2023-03-22,Chicago,50.8
+2023-03-29,Chicago,48.6
+2023-04-05,Chicago,47.6
+2023-04-12,Chicago,49.1
+2023-04-19,Chicago,51.3
+2023-04-26,Chicago,51.4
+2023-05-03,Chicago,50.8
+2023-05-10,Chicago,50.7
+2023-05-17,Chicago,51.1
+2023-05-24,Chicago,52.1
+2023-05-31,Chicago,50.9
+2023-06-07,Chicago,54.3
+2023-06-14,Chicago,54.7
+2023-06-21,Chicago,54
+2023-06-28,Chicago,53.1
+2023-07-05,Chicago,36.6
+2023-07-12,Chicago,53.4
+2023-07-19,Chicago,55.2
+2023-07-26,Chicago,54
+2023-08-02,Chicago,52.2
+2023-08-09,Chicago,51.2
+2023-08-16,Chicago,50.7
+2023-08-23,Chicago,50.6
+2023-08-30,Chicago,51.3
+2023-09-06,Chicago,50.6
+2023-09-13,Chicago,53.6
+2023-09-20,Chicago,53.5
+2023-09-27,Chicago,53.2
+2023-10-04,Chicago,53.5
+2023-10-11,Chicago,53.2
+2023-10-18,Chicago,53.5
+2023-10-25,Chicago,53.5
+2023-11-01,Chicago,52
+2023-11-08,Chicago,55
+2023-11-15,Chicago,55
+2023-11-22,Chicago,40.4
+2023-11-29,Chicago,52.5
+2023-12-06,Chicago,55.6
+2023-12-13,Chicago,55.9
+2023-12-20,Chicago,51.1
+2023-12-27,Chicago,25.1
+2024-01-03,Chicago,34.6
+2024-01-10,Chicago,50
+2024-01-17,Chicago,45.3
+2024-01-24,Chicago,54.5
+2024-01-31,Chicago,56.4
+2024-02-07,Chicago,56.2
+2024-02-14,Chicago,54.9
+2024-02-21,Chicago,55.1
+2024-02-28,Chicago,55.2
+2024-03-06,Chicago,56
+2024-03-13,Chicago,56.4
+2024-03-20,Chicago,55.5
+2024-03-27,Chicago,50.6
+2024-04-03,Chicago,49.6
+2024-04-10,Chicago,54.2
+2024-04-17,Chicago,55.9
+2024-04-24,Chicago,55.5
+2024-05-01,Chicago,54.2
+2024-05-08,Chicago,55
+2024-05-15,Chicago,55.9
+2024-05-22,Chicago,55.4
+2024-05-29,Chicago,53.8
+2024-06-05,Chicago,57
+2024-06-12,Chicago,57.6
+2024-06-19,Chicago,56.5
+2024-06-26,Chicago,56.1
+2024-07-03,Chicago,48.2
+2024-07-10,Chicago,50.3
+2024-07-17,Chicago,56.8
+2024-07-24,Chicago,56.6
+2024-07-31,Chicago,55.4
+2024-08-07,Chicago,53.4
+2024-08-14,Chicago,53.7
+2024-08-21,Chicago,37.1
+2024-08-28,Chicago,48.2
+2023-01-11,Dallas,53.1
+2023-01-18,Dallas,54.3
+2023-01-25,Dallas,53.5
+2023-02-01,Dallas,30.3
+2023-02-08,Dallas,43
+2023-02-15,Dallas,53.2
+2023-02-22,Dallas,53.8
+2023-03-01,Dallas,54.3
+2023-03-08,Dallas,51.7
+2023-03-15,Dallas,49.9
+2023-03-22,Dallas,51.5
+2023-03-29,Dallas,53.8
+2023-04-05,Dallas,53.7
+2023-04-12,Dallas,50.2
+2023-04-19,Dallas,53.6
+2023-04-26,Dallas,51.9
+2023-05-03,Dallas,53.8
+2023-05-10,Dallas,53.4
+2023-05-17,Dallas,53.7
+2023-05-24,Dallas,53.2
+2023-05-31,Dallas,51.7
+2023-06-07,Dallas,54.1
+2023-06-14,Dallas,54.5
+2023-06-21,Dallas,54.4
+2023-06-28,Dallas,53.7
+2023-07-05,Dallas,42.8
+2023-07-12,Dallas,53.6
+2023-07-19,Dallas,53.9
+2023-07-26,Dallas,53.3
+2023-08-02,Dallas,53.4
+2023-08-09,Dallas,52.4
+2023-08-16,Dallas,54.1
+2023-08-23,Dallas,54
+2023-08-30,Dallas,54.2
+2023-09-06,Dallas,52.1
+2023-09-13,Dallas,54.9
+2023-09-20,Dallas,55.5
+2023-09-27,Dallas,55.1
+2023-10-04,Dallas,54.6
+2023-10-11,Dallas,54.1
+2023-10-18,Dallas,53.8
+2023-10-25,Dallas,53.6
+2023-11-01,Dallas,53
+2023-11-08,Dallas,52.7
+2023-11-15,Dallas,53.8
+2023-11-22,Dallas,43.5
+2023-11-29,Dallas,54
+2023-12-06,Dallas,55
+2023-12-13,Dallas,56.3
+2023-12-20,Dallas,51.8
+2023-12-27,Dallas,28.8
+2024-01-03,Dallas,39.8
+2024-01-10,Dallas,55.5
+2024-01-17,Dallas,53.2
+2024-01-24,Dallas,59.3
+2024-01-31,Dallas,59.4
+2024-02-07,Dallas,57.5
+2024-02-14,Dallas,58.3
+2024-02-21,Dallas,59.1
+2024-02-28,Dallas,58.4
+2024-03-06,Dallas,59.5
+2024-03-13,Dallas,54.4
+2024-03-20,Dallas,57.8
+2024-03-27,Dallas,60.4
+2024-04-03,Dallas,57.4
+2024-04-10,Dallas,56.2
+2024-04-17,Dallas,59.8
+2024-04-24,Dallas,58.4
+2024-05-01,Dallas,57.7
+2024-05-08,Dallas,57.9
+2024-05-15,Dallas,58.6
+2024-05-22,Dallas,58.7
+2024-05-29,Dallas,48.9
+2024-06-05,Dallas,57.1
+2024-06-12,Dallas,59.5
+2024-06-19,Dallas,59.3
+2024-06-26,Dallas,59.5
+2024-07-03,Dallas,54.7
+2024-07-10,Dallas,52.9
+2024-07-17,Dallas,58.7
+2024-07-24,Dallas,58.5
+2024-07-31,Dallas,57.6
+2024-08-07,Dallas,57.2
+2024-08-14,Dallas,58.3
+2024-08-21,Dallas,58.7
+2024-08-28,Dallas,59.8
+2023-01-11,Houston,60
+2023-01-18,Houston,60.9
+2023-01-25,Houston,60.3
+2023-02-01,Houston,60.7
+2023-02-08,Houston,61
+2023-02-15,Houston,60.4
+2023-02-22,Houston,60.6
+2023-03-01,Houston,61.8
+2023-03-08,Houston,62.4
+2023-03-15,Houston,55.9
+2023-03-22,Houston,57.6
+2023-03-29,Houston,61.3
+2023-04-05,Houston,60.9
+2023-04-12,Houston,55.7
+2023-04-19,Houston,61.3
+2023-04-26,Houston,61
+2023-05-03,Houston,61.8
+2023-05-10,Houston,60
+2023-05-17,Houston,60.9
+2023-05-24,Houston,60.5
+2023-05-31,Houston,57.9
+2023-06-07,Houston,61.6
+2023-06-14,Houston,60.6
+2023-06-21,Houston,60.8
+2023-06-28,Houston,61.2
+2023-07-05,Houston,49.2
+2023-07-12,Houston,60.2
+2023-07-19,Houston,61.2
+2023-07-26,Houston,60.6
+2023-08-02,Houston,60.5
+2023-08-09,Houston,59.4
+2023-08-16,Houston,60.3
+2023-08-23,Houston,60.9
+2023-08-30,Houston,61
+2023-09-06,Houston,59.7
+2023-09-13,Houston,61.6
+2023-09-20,Houston,61.5
+2023-09-27,Houston,60
+2023-10-04,Houston,60.9
+2023-10-11,Houston,60
+2023-10-18,Houston,61
+2023-10-25,Houston,61.1
+2023-11-01,Houston,61.5
+2023-11-08,Houston,61.4
+2023-11-15,Houston,60.6
+2023-11-22,Houston,48.1
+2023-11-29,Houston,59.8
+2023-12-06,Houston,58.3
+2023-12-13,Houston,58.4
+2023-12-20,Houston,51.6
+2023-12-27,Houston,29.9
+2024-01-03,Houston,41.4
+2024-01-10,Houston,58.7
+2024-01-17,Houston,48.3
+2024-01-24,Houston,60.3
+2024-01-31,Houston,61.4
+2024-02-07,Houston,61.4
+2024-02-14,Houston,60.5
+2024-02-21,Houston,61.1
+2024-02-28,Houston,61.6
+2024-03-06,Houston,61.4
+2024-03-13,Houston,55.3
+2024-03-20,Houston,57.3
+2024-03-27,Houston,59.5
+2024-04-03,Houston,55.4
+2024-04-10,Houston,58
+2024-04-17,Houston,59.4
+2024-04-24,Houston,59.5
+2024-05-01,Houston,58.5
+2024-05-08,Houston,59.1
+2024-05-15,Houston,61.2
+2024-05-22,Houston,55.2
+2024-05-29,Houston,57.7
+2024-06-05,Houston,60.9
+2024-06-12,Houston,61.3
+2024-06-19,Houston,60.6
+2024-06-26,Houston,61.1
+2024-07-03,Houston,57
+2024-07-10,Houston,25.7
+2024-07-17,Houston,55.1
+2024-07-24,Houston,59.4
+2024-07-31,Houston,59.3
+2024-08-07,Houston,59.8
+2024-08-14,Houston,60.4
+2024-08-21,Houston,61.2
+2024-08-28,Houston,61.1
+2023-01-11,Los Angeles,43.5
+2023-01-18,Los Angeles,47.3
+2023-01-25,Los Angeles,48
+2023-02-01,Los Angeles,47.9
+2023-02-08,Los Angeles,48.8
+2023-02-15,Los Angeles,48.1
+2023-02-22,Los Angeles,49.3
+2023-03-01,Los Angeles,47.9
+2023-03-08,Los Angeles,48.5
+2023-03-15,Los Angeles,47.1
+2023-03-22,Los Angeles,47.8
+2023-03-29,Los Angeles,48.1
+2023-04-05,Los Angeles,47.1
+2023-04-12,Los Angeles,45.8
+2023-04-19,Los Angeles,47.8
+2023-04-26,Los Angeles,50.4
+2023-05-03,Los Angeles,49.4
+2023-05-10,Los Angeles,49
+2023-05-17,Los Angeles,48.7
+2023-05-24,Los Angeles,48.8
+2023-05-31,Los Angeles,49
+2023-06-07,Los Angeles,50.1
+2023-06-14,Los Angeles,49.6
+2023-06-21,Los Angeles,49.7
+2023-06-28,Los Angeles,49.3
+2023-07-05,Los Angeles,39.2
+2023-07-12,Los Angeles,48.9
+2023-07-19,Los Angeles,50.7
+2023-07-26,Los Angeles,49.7
+2023-08-02,Los Angeles,49.3
+2023-08-09,Los Angeles,47.9
+2023-08-16,Los Angeles,47.7
+2023-08-23,Los Angeles,46.2
+2023-08-30,Los Angeles,49
+2023-09-06,Los Angeles,47.8
+2023-09-13,Los Angeles,49.4
+2023-09-20,Los Angeles,49.6
+2023-09-27,Los Angeles,47.7
+2023-10-04,Los Angeles,48
+2023-10-11,Los Angeles,48.5
+2023-10-18,Los Angeles,48.9
+2023-10-25,Los Angeles,48.4
+2023-11-01,Los Angeles,48.2
+2023-11-08,Los Angeles,49.5
+2023-11-15,Los Angeles,48.2
+2023-11-22,Los Angeles,40.4
+2023-11-29,Los Angeles,46.6
+2023-12-06,Los Angeles,48.2
+2023-12-13,Los Angeles,45.5
+2023-12-20,Los Angeles,42.6
+2023-12-27,Los Angeles,25.2
+2024-01-03,Los Angeles,30.2
+2024-01-10,Los Angeles,45.6
+2024-01-17,Los Angeles,47.7
+2024-01-24,Los Angeles,47.9
+2024-01-31,Los Angeles,49
+2024-02-07,Los Angeles,42.6
+2024-02-14,Los Angeles,47.1
+2024-02-21,Los Angeles,46.4
+2024-02-28,Los Angeles,49
+2024-03-06,Los Angeles,48.8
+2024-03-13,Los Angeles,47.7
+2024-03-20,Los Angeles,46.9
+2024-03-27,Los Angeles,47.2
+2024-04-03,Los Angeles,44.3
+2024-04-10,Los Angeles,47.1
+2024-04-17,Los Angeles,47.1
+2024-04-24,Los Angeles,47.2
+2024-05-01,Los Angeles,47.1
+2024-05-08,Los Angeles,47.1
+2024-05-15,Los Angeles,47.2
+2024-05-22,Los Angeles,47.5
+2024-05-29,Los Angeles,47.2
+2024-06-05,Los Angeles,48.6
+2024-06-12,Los Angeles,48.3
+2024-06-19,Los Angeles,48.7
+2024-06-26,Los Angeles,47.4
+2024-07-03,Los Angeles,42.1
+2024-07-10,Los Angeles,40.4
+2024-07-17,Los Angeles,48.4
+2024-07-24,Los Angeles,48.3
+2024-07-31,Los Angeles,47.7
+2024-08-07,Los Angeles,47.2
+2024-08-14,Los Angeles,46.7
+2024-08-21,Los Angeles,47.5
+2024-08-28,Los Angeles,46.5
+2023-01-11,New York,45.6
+2023-01-18,New York,47.2
+2023-01-25,New York,47.5
+2023-02-01,New York,48.7
+2023-02-08,New York,48.6
+2023-02-15,New York,47.8
+2023-02-22,New York,46.7
+2023-03-01,New York,45
+2023-03-08,New York,46.7
+2023-03-15,New York,45.5
+2023-03-22,New York,47
+2023-03-29,New York,46.8
+2023-04-05,New York,45.8
+2023-04-12,New York,41.3
+2023-04-19,New York,47
+2023-04-26,New York,47.9
+2023-05-03,New York,48.4
+2023-05-10,New York,48.9
+2023-05-17,New York,48.9
+2023-05-24,New York,48.5
+2023-05-31,New York,46.3
+2023-06-07,New York,50.5
+2023-06-14,New York,48.1
+2023-06-21,New York,50
+2023-06-28,New York,49.1
+2023-07-05,New York,33.1
+2023-07-12,New York,47.1
+2023-07-19,New York,48.9
+2023-07-26,New York,48.1
+2023-08-02,New York,46.8
+2023-08-09,New York,44.8
+2023-08-16,New York,42.8
+2023-08-23,New York,40.6
+2023-08-30,New York,38.2
+2023-09-06,New York,42.5
+2023-09-13,New York,50.1
+2023-09-20,New York,50
+2023-09-27,New York,47.9
+2023-10-04,New York,49.1
+2023-10-11,New York,49.4
+2023-10-18,New York,49.5
+2023-10-25,New York,49.7
+2023-11-01,New York,48.9
+2023-11-08,New York,50.5
+2023-11-15,New York,50
+2023-11-22,New York,38.6
+2023-11-29,New York,48.9
+2023-12-06,New York,51.4
+2023-12-13,New York,51.3
+2023-12-20,New York,43.3
+2023-12-27,New York,21
+2024-01-03,New York,31.1
+2024-01-10,New York,46.7
+2024-01-17,New York,46
+2024-01-24,New York,51.3
+2024-01-31,New York,51
+2024-02-07,New York,52.1
+2024-02-14,New York,43.2
+2024-02-21,New York,49.7
+2024-02-28,New York,49.8
+2024-03-06,New York,51.3
+2024-03-13,New York,51.1
+2024-03-20,New York,51
+2024-03-27,New York,50
+2024-04-03,New York,46
+2024-04-10,New York,50
+2024-04-17,New York,51.4
+2024-04-24,New York,48.1
+2024-05-01,New York,49.4
+2024-05-08,New York,51.7
+2024-05-15,New York,51.5
+2024-05-22,New York,51.2
+2024-05-29,New York,49.1
+2024-06-05,New York,53.4
+2024-06-12,New York,53.8
+2024-06-19,New York,52.5
+2024-06-26,New York,52.4
+2024-07-03,New York,44.5
+2024-07-10,New York,46.3
+2024-07-17,New York,51.2
+2024-07-24,New York,51.7
+2024-07-31,New York,50.5
+2024-08-07,New York,47.9
+2024-08-14,New York,45.9
+2024-08-21,New York,42.9
+2024-08-28,New York,41.1
+2023-01-11,Philadelphia,42.1
+2023-01-18,Philadelphia,42.8
+2023-01-25,Philadelphia,42.7
+2023-02-01,Philadelphia,42.7
+2023-02-08,Philadelphia,42.2
+2023-02-15,Philadelphia,41.3
+2023-02-22,Philadelphia,42.8
+2023-03-01,Philadelphia,42.3
+2023-03-08,Philadelphia,41.6
+2023-03-15,Philadelphia,42.2
+2023-03-22,Philadelphia,42.9
+2023-03-29,Philadelphia,42.5
+2023-04-05,Philadelphia,42.4
+2023-04-12,Philadelphia,40.2
+2023-04-19,Philadelphia,42.9
+2023-04-26,Philadelphia,42.4
+2023-05-03,Philadelphia,41.7
+2023-05-10,Philadelphia,41.5
+2023-05-17,Philadelphia,41.8
+2023-05-24,Philadelphia,41.7
+2023-05-31,Philadelphia,40.5
+2023-06-07,Philadelphia,42.4
+2023-06-14,Philadelphia,40.9
+2023-06-21,Philadelphia,41.2
+2023-06-28,Philadelphia,40.6
+2023-07-05,Philadelphia,32.2
+2023-07-12,Philadelphia,41
+2023-07-19,Philadelphia,41.4
+2023-07-26,Philadelphia,40.8
+2023-08-02,Philadelphia,39.9
+2023-08-09,Philadelphia,39.7
+2023-08-16,Philadelphia,38.9
+2023-08-23,Philadelphia,39.6
+2023-08-30,Philadelphia,39.1
+2023-09-06,Philadelphia,38.5
+2023-09-13,Philadelphia,42.7
+2023-09-20,Philadelphia,43.3
+2023-09-27,Philadelphia,42.7
+2023-10-04,Philadelphia,43.1
+2023-10-11,Philadelphia,42.8
+2023-10-18,Philadelphia,42.3
+2023-10-25,Philadelphia,42.1
+2023-11-01,Philadelphia,42.5
+2023-11-08,Philadelphia,42.9
+2023-11-15,Philadelphia,42.9
+2023-11-22,Philadelphia,35.9
+2023-11-29,Philadelphia,42.5
+2023-12-06,Philadelphia,43.3
+2023-12-13,Philadelphia,43
+2023-12-20,Philadelphia,40.8
+2023-12-27,Philadelphia,25.2
+2024-01-03,Philadelphia,32.6
+2024-01-10,Philadelphia,41
+2024-01-17,Philadelphia,37.5
+2024-01-24,Philadelphia,40
+2024-01-31,Philadelphia,43.4
+2024-02-07,Philadelphia,43.4
+2024-02-14,Philadelphia,39.1
+2024-02-21,Philadelphia,43.3
+2024-02-28,Philadelphia,43.1
+2024-03-06,Philadelphia,42.3
+2024-03-13,Philadelphia,43.1
+2024-03-20,Philadelphia,43.4
+2024-03-27,Philadelphia,41.7
+2024-04-03,Philadelphia,39.4
+2024-04-10,Philadelphia,42.6
+2024-04-17,Philadelphia,43.1
+2024-04-24,Philadelphia,42.2
+2024-05-01,Philadelphia,41.3
+2024-05-08,Philadelphia,41.1
+2024-05-15,Philadelphia,41.2
+2024-05-22,Philadelphia,42.2
+2024-05-29,Philadelphia,41.1
+2024-06-05,Philadelphia,42.7
+2024-06-12,Philadelphia,42
+2024-06-19,Philadelphia,41.8
+2024-06-26,Philadelphia,41.4
+2024-07-03,Philadelphia,37.4
+2024-07-10,Philadelphia,37.5
+2024-07-17,Philadelphia,41.6
+2024-07-24,Philadelphia,41.6
+2024-07-31,Philadelphia,40.7
+2024-08-07,Philadelphia,41
+2024-08-14,Philadelphia,40
+2024-08-21,Philadelphia,40.2
+2024-08-28,Philadelphia,39.6
+2023-01-11,San Francisco,35.8
+2023-01-18,San Francisco,43.3
+2023-01-25,San Francisco,45.9
+2023-02-01,San Francisco,46.1
+2023-02-08,San Francisco,46.1
+2023-02-15,San Francisco,44.6
+2023-02-22,San Francisco,43.9
+2023-03-01,San Francisco,43.5
+2023-03-08,San Francisco,46
+2023-03-15,San Francisco,42.1
+2023-03-22,San Francisco,43.3
+2023-03-29,San Francisco,41.6
+2023-04-05,San Francisco,43.2
+2023-04-12,San Francisco,41.3
+2023-04-19,San Francisco,44
+2023-04-26,San Francisco,44.9
+2023-05-03,San Francisco,44.9
+2023-05-10,San Francisco,44
+2023-05-17,San Francisco,44.9
+2023-05-24,San Francisco,43.5
+2023-05-31,San Francisco,42.7
+2023-06-07,San Francisco,44.7
+2023-06-14,San Francisco,44.4
+2023-06-21,San Francisco,45.4
+2023-06-28,San Francisco,46.5
+2023-07-05,San Francisco,32.8
+2023-07-12,San Francisco,44.7
+2023-07-19,San Francisco,45.5
+2023-07-26,San Francisco,44.3
+2023-08-02,San Francisco,42.9
+2023-08-09,San Francisco,41.4
+2023-08-16,San Francisco,41.9
+2023-08-23,San Francisco,41.9
+2023-08-30,San Francisco,41.5
+2023-09-06,San Francisco,40
+2023-09-13,San Francisco,47.6
+2023-09-20,San Francisco,43.6
+2023-09-27,San Francisco,43.5
+2023-10-04,San Francisco,42.8
+2023-10-11,San Francisco,43.1
+2023-10-18,San Francisco,43.1
+2023-10-25,San Francisco,43.3
+2023-11-01,San Francisco,41.9
+2023-11-08,San Francisco,44
+2023-11-15,San Francisco,38.4
+2023-11-22,San Francisco,29.4
+2023-11-29,San Francisco,40
+2023-12-06,San Francisco,47
+2023-12-13,San Francisco,46.7
+2023-12-20,San Francisco,36.8
+2023-12-27,San Francisco,18
+2024-01-03,San Francisco,24.2
+2024-01-10,San Francisco,41.5
+2024-01-17,San Francisco,44.6
+2024-01-24,San Francisco,46.5
+2024-01-31,San Francisco,46.6
+2024-02-07,San Francisco,46
+2024-02-14,San Francisco,45.9
+2024-02-21,San Francisco,44
+2024-02-28,San Francisco,46.5
+2024-03-06,San Francisco,45.7
+2024-03-13,San Francisco,45.9
+2024-03-20,San Francisco,45.7
+2024-03-27,San Francisco,46.4
+2024-04-03,San Francisco,41.8
+2024-04-10,San Francisco,41.3
+2024-04-17,San Francisco,43.8
+2024-04-24,San Francisco,45.2
+2024-05-01,San Francisco,45.8
+2024-05-08,San Francisco,45.2
+2024-05-15,San Francisco,45.1
+2024-05-22,San Francisco,43.9
+2024-05-29,San Francisco,42.2
+2024-06-05,San Francisco,44.2
+2024-06-12,San Francisco,44.6
+2024-06-19,San Francisco,43.5
+2024-06-26,San Francisco,44.9
+2024-07-03,San Francisco,38.7
+2024-07-10,San Francisco,38.8
+2024-07-17,San Francisco,44.7
+2024-07-24,San Francisco,45.8
+2024-07-31,San Francisco,42.6
+2024-08-07,San Francisco,42.7
+2024-08-14,San Francisco,42.3
+2024-08-21,San Francisco,42.8
+2024-08-28,San Francisco,42.5
+2023-01-11,San Jose,31
+2023-01-18,San Jose,38.2
+2023-01-25,San Jose,41.1
+2023-02-01,San Jose,41.3
+2023-02-08,San Jose,41.3
+2023-02-15,San Jose,42.1
+2023-02-22,San Jose,41.2
+2023-03-01,San Jose,40.6
+2023-03-08,San Jose,40.4
+2023-03-15,San Jose,38.4
+2023-03-22,San Jose,39.7
+2023-03-29,San Jose,37
+2023-04-05,San Jose,37.1
+2023-04-12,San Jose,36.4
+2023-04-19,San Jose,38.8
+2023-04-26,San Jose,39.5
+2023-05-03,San Jose,38.5
+2023-05-10,San Jose,38.2
+2023-05-17,San Jose,38.9
+2023-05-24,San Jose,37.6
+2023-05-31,San Jose,37
+2023-06-07,San Jose,38.9
+2023-06-14,San Jose,39.4
+2023-06-21,San Jose,38.1
+2023-06-28,San Jose,39.1
+2023-07-05,San Jose,28.5
+2023-07-12,San Jose,38.6
+2023-07-19,San Jose,40.7
+2023-07-26,San Jose,40.1
+2023-08-02,San Jose,38.8
+2023-08-09,San Jose,37.5
+2023-08-16,San Jose,38
+2023-08-23,San Jose,38.8
+2023-08-30,San Jose,36.1
+2023-09-06,San Jose,37.3
+2023-09-13,San Jose,41.5
+2023-09-20,San Jose,41.1
+2023-09-27,San Jose,40.7
+2023-10-04,San Jose,41.1
+2023-10-11,San Jose,41.6
+2023-10-18,San Jose,43.3
+2023-10-25,San Jose,43.2
+2023-11-01,San Jose,42.5
+2023-11-08,San Jose,42.1
+2023-11-15,San Jose,42.9
+2023-11-22,San Jose,33.9
+2023-11-29,San Jose,40.3
+2023-12-06,San Jose,42.9
+2023-12-13,San Jose,41.2
+2023-12-20,San Jose,35.9
+2023-12-27,San Jose,18.2
+2024-01-03,San Jose,22
+2024-01-10,San Jose,38.7
+2024-01-17,San Jose,42.2
+2024-01-24,San Jose,47.6
+2024-01-31,San Jose,46.3
+2024-02-07,San Jose,44.7
+2024-02-14,San Jose,43.6
+2024-02-21,San Jose,44.5
+2024-02-28,San Jose,45.8
+2024-03-06,San Jose,43
+2024-03-13,San Jose,44
+2024-03-20,San Jose,43.7
+2024-03-27,San Jose,43.4
+2024-04-03,San Jose,39.9
+2024-04-10,San Jose,40
+2024-04-17,San Jose,42
+2024-04-24,San Jose,39.8
+2024-05-01,San Jose,39.1
+2024-05-08,San Jose,39.2
+2024-05-15,San Jose,38.5
+2024-05-22,San Jose,38.2
+2024-05-29,San Jose,37.7
+2024-06-05,San Jose,39.5
+2024-06-12,San Jose,37.6
+2024-06-19,San Jose,37.5
+2024-06-26,San Jose,40.9
+2024-07-03,San Jose,34.6
+2024-07-10,San Jose,35.3
+2024-07-17,San Jose,42.1
+2024-07-24,San Jose,42
+2024-07-31,San Jose,41.5
+2024-08-07,San Jose,40.3
+2024-08-14,San Jose,40.8
+2024-08-21,San Jose,39.7
+2024-08-28,San Jose,39.8
+2023-01-11,Washington,44.7
+2023-01-18,Washington,45.7
+2023-01-25,Washington,46.9
+2023-02-01,Washington,46.4
+2023-02-08,Washington,46.8
+2023-02-15,Washington,46
+2023-02-22,Washington,46.6
+2023-03-01,Washington,47
+2023-03-08,Washington,47.7
+2023-03-15,Washington,46.2
+2023-03-22,Washington,45.8
+2023-03-29,Washington,46.1
+2023-04-05,Washington,43.3
+2023-04-12,Washington,43.1
+2023-04-19,Washington,45.9
+2023-04-26,Washington,46.7
+2023-05-03,Washington,46.7
+2023-05-10,Washington,46.3
+2023-05-17,Washington,46.6
+2023-05-24,Washington,46.4
+2023-05-31,Washington,44.1
+2023-06-07,Washington,47.8
+2023-06-14,Washington,46.9
+2023-06-21,Washington,46.3
+2023-06-28,Washington,46.5
+2023-07-05,Washington,34.8
+2023-07-12,Washington,45.7
+2023-07-19,Washington,46.9
+2023-07-26,Washington,45.9
+2023-08-02,Washington,44.2
+2023-08-09,Washington,41.8
+2023-08-16,Washington,40.9
+2023-08-23,Washington,41
+2023-08-30,Washington,42.9
+2023-09-06,Washington,43.8
+2023-09-13,Washington,47.9
+2023-09-20,Washington,48
+2023-09-27,Washington,47.2
+2023-10-04,Washington,47.4
+2023-10-11,Washington,46.8
+2023-10-18,Washington,48
+2023-10-25,Washington,47.8
+2023-11-01,Washington,47
+2023-11-08,Washington,47.8
+2023-11-15,Washington,46.5
+2023-11-22,Washington,36.2
+2023-11-29,Washington,46.5
+2023-12-06,Washington,49.5
+2023-12-13,Washington,49.6
+2023-12-20,Washington,43
+2023-12-27,Washington,21
+2024-01-03,Washington,31.1
+2024-01-10,Washington,47.1
+2024-01-17,Washington,40.3
+2024-01-24,Washington,47.7
+2024-01-31,Washington,50.8
+2024-02-07,Washington,50.7
+2024-02-14,Washington,48.9
+2024-02-21,Washington,49.8
+2024-02-28,Washington,50.4
+2024-03-06,Washington,49.8
+2024-03-13,Washington,49.8
+2024-03-20,Washington,49.5
+2024-03-27,Washington,46
+2024-04-03,Washington,44.3
+2024-04-10,Washington,48.9
+2024-04-17,Washington,48.9
+2024-04-24,Washington,49
+2024-05-01,Washington,49.5
+2024-05-08,Washington,49
+2024-05-15,Washington,48.3
+2024-05-22,Washington,48.7
+2024-05-29,Washington,46.6
+2024-06-05,Washington,49.8
+2024-06-12,Washington,49.7
+2024-06-19,Washington,48.4
+2024-06-26,Washington,47.9
+2024-07-03,Washington,42.4
+2024-07-10,Washington,39.8
+2024-07-17,Washington,46.2
+2024-07-24,Washington,46.4
+2024-07-31,Washington,45.4
+2024-08-07,Washington,43.4
+2024-08-14,Washington,41.6
+2024-08-21,Washington,41.8
+2024-08-28,Washington,43.7

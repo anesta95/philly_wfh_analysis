@@ -1,0 +1,518 @@
+GEOID,NAME,variable,estimate,moe,summary_est,summary_moe
+10140,"Aberdeen, WA Micro Area",wfh,NA,NA,NA,NA
+10180,"Abilene, TX Metro Area",wfh,6624,1612,86363,3457
+10300,"Adrian, MI Micro Area",wfh,NA,NA,NA,NA
+10380,"Aguadilla-Isabela, PR Metro Area",wfh,NA,NA,NA,NA
+10420,"Akron, OH Metro Area",wfh,53503,4337,347115,7164
+10460,"Alamogordo, NM Micro Area",wfh,NA,NA,NA,NA
+10500,"Albany, GA Metro Area",wfh,NA,NA,NA,NA
+10540,"Albany-Lebanon, OR Metro Area",wfh,6876,1262,58920,2172
+10580,"Albany-Schenectady-Troy, NY Metro Area",wfh,67746,3853,453936,6834
+10700,"Albertville, AL Micro Area",wfh,NA,NA,NA,NA
+10740,"Albuquerque, NM Metro Area",wfh,64381,4911,443433,7158
+10780,"Alexandria, LA Metro Area",wfh,3766,1202,63991,2825
+10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",wfh,53130,3690,431634,7208
+11020,"Altoona, PA Metro Area",wfh,NA,NA,NA,NA
+11100,"Amarillo, TX Metro Area",wfh,9301,1925,129284,4066
+11180,"Ames, IA Metro Area",wfh,6016,1150,69738,2543
+11260,"Anchorage, AK Metro Area",wfh,23812,2352,200147,4404
+11460,"Ann Arbor, MI Metro Area",wfh,41166,2688,182240,4336
+11500,"Anniston-Oxford, AL Metro Area",wfh,NA,NA,NA,NA
+11540,"Appleton, WI Metro Area",wfh,16680,1763,130465,2165
+11640,"Arecibo, PR Metro Area",wfh,NA,NA,NA,NA
+11700,"Asheville, NC Metro Area",wfh,33876,3645,220208,5629
+11780,"Ashtabula, OH Micro Area",wfh,1820,554,41719,1992
+11980,"Athens, TX Micro Area",wfh,NA,NA,NA,NA
+12020,"Athens-Clarke County, GA Metro Area",wfh,11998,1755,104936,3973
+12060,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",wfh,659991,16406,3146828,17369
+12100,"Atlantic City-Hammonton, NJ Metro Area",wfh,12787,1953,129408,3805
+12180,"Auburn, NY Micro Area",wfh,NA,NA,NA,NA
+12220,"Auburn-Opelika, AL Metro Area",wfh,NA,NA,NA,NA
+12260,"Augusta-Richmond County, GA-SC Metro Area",wfh,27800,3738,279977,6214
+12300,"Augusta-Waterville, ME Micro Area",wfh,NA,NA,NA,NA
+12420,"Austin-Round Rock-Georgetown, TX Metro Area",wfh,374610,12970,1339570,12504
+12540,"Bakersfield, CA Metro Area",wfh,25409,3354,366139,6897
+12580,"Baltimore-Columbia-Towson, MD Metro Area",wfh,262005,10447,1448648,11045
+12620,"Bangor, ME Metro Area",wfh,6972,1427,74569,2913
+12660,"Baraboo, WI Micro Area",wfh,3614,717,33152,1136
+12700,"Barnstable Town, MA Metro Area",wfh,15765,2431,111744,3181
+12940,"Baton Rouge, LA Metro Area",wfh,30924,2945,410429,8693
+12980,"Battle Creek, MI Metro Area",wfh,NA,NA,NA,NA
+13020,"Bay City, MI Metro Area",wfh,NA,NA,NA,NA
+13140,"Beaumont-Port Arthur, TX Metro Area",wfh,5315,1240,163314,4243
+13180,"Beaver Dam, WI Micro Area",wfh,NA,NA,NA,NA
+13220,"Beckley, WV Metro Area",wfh,NA,NA,NA,NA
+13380,"Bellingham, WA Metro Area",wfh,18432,2513,116526,3491
+13460,"Bend, OR Metro Area",wfh,24928,3230,103155,3643
+13740,"Billings, MT Metro Area",wfh,7217,1834,99325,3033
+13780,"Binghamton, NY Metro Area",wfh,9607,1490,111930,3543
+13820,"Birmingham-Hoover, AL Metro Area",wfh,62270,5033,528830,6929
+13900,"Bismarck, ND Metro Area",wfh,NA,NA,NA,NA
+13980,"Blacksburg-Christiansburg, VA Metro Area",wfh,7384,1538,79029,3443
+14010,"Bloomington, IL Metro Area",wfh,17984,2366,87375,3310
+14020,"Bloomington, IN Metro Area",wfh,10933,1448,81869,2739
+14100,"Bloomsburg-Berwick, PA Metro Area",wfh,NA,NA,NA,NA
+14140,"Bluefield, WV-VA Micro Area",wfh,NA,NA,NA,NA
+14260,"Boise City, ID Metro Area",wfh,68016,4933,401206,6515
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",wfh,547117,14243,2631810,15888
+14500,"Boulder, CO Metro Area",wfh,57679,4033,180103,3933
+14540,"Bowling Green, KY Metro Area",wfh,6572,1584,83567,3986
+14580,"Bozeman, MT Micro Area",wfh,13218,1848,71511,2635
+14660,"Brainerd, MN Micro Area",wfh,5113,879,44181,1721
+14740,"Bremerton-Silverdale-Port Orchard, WA Metro Area",wfh,18196,2266,132744,3357
+14860,"Bridgeport-Stamford-Norwalk, CT Metro Area",wfh,93657,4921,484926,6320
+15180,"Brownsville-Harlingen, TX Metro Area",wfh,14579,2082,172755,4776
+15260,"Brunswick, GA Metro Area",wfh,NA,NA,NA,NA
+15380,"Buffalo-Cheektowaga, NY Metro Area",wfh,72130,4672,562320,8513
+15500,"Burlington, NC Metro Area",wfh,NA,NA,NA,NA
+15540,"Burlington-South Burlington, VT Metro Area",wfh,21676,2320,128035,2874
+15680,"California-Lexington Park, MD Metro Area",wfh,NA,NA,NA,NA
+15940,"Canton-Massillon, OH Metro Area",wfh,20408,2506,190239,4277
+15980,"Cape Coral-Fort Myers, FL Metro Area",wfh,53495,5029,352092,7870
+16020,"Cape Girardeau, MO-IL Metro Area",wfh,NA,NA,NA,NA
+16060,"Carbondale-Marion, IL Metro Area",wfh,NA,NA,NA,NA
+16180,"Carson City, NV Metro Area",wfh,NA,NA,NA,NA
+16220,"Casper, WY Metro Area",wfh,NA,NA,NA,NA
+16300,"Cedar Rapids, IA Metro Area",wfh,20976,2415,143280,3411
+16500,"Centralia, WA Micro Area",wfh,NA,NA,NA,NA
+16540,"Chambersburg-Waynesboro, PA Metro Area",wfh,NA,NA,NA,NA
+16580,"Champaign-Urbana, IL Metro Area",wfh,18095,2681,108907,3747
+16620,"Charleston, WV Metro Area",wfh,9793,1837,100874,3928
+16700,"Charleston-North Charleston, SC Metro Area",wfh,61743,4669,426429,7283
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",wfh,313624,11675,1405571,13161
+16820,"Charlottesville, VA Metro Area",wfh,23005,2507,108559,3744
+16860,"Chattanooga, TN-GA Metro Area",wfh,39725,4005,278118,5865
+16940,"Cheyenne, WY Metro Area",wfh,NA,NA,NA,NA
+16980,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",wfh,826975,15769,4750545,20466
+17020,"Chico, CA Metro Area",wfh,11409,1872,91681,3637
+17060,"Chillicothe, OH Micro Area",wfh,NA,NA,NA,NA
+17140,"Cincinnati, OH-KY-IN Metro Area",wfh,171445,8518,1132833,11902
+17220,"Clarksburg, WV Micro Area",wfh,NA,NA,NA,NA
+17300,"Clarksville, TN-KY Metro Area",wfh,13982,2147,160011,3577
+17340,"Clearlake, CA Micro Area",wfh,NA,NA,NA,NA
+17420,"Cleveland, TN Metro Area",wfh,NA,NA,NA,NA
+17460,"Cleveland-Elyria, OH Metro Area",wfh,155990,6390,1003254,10855
+17660,"Coeur d'Alene, ID Metro Area",wfh,14030,2267,84245,3807
+17780,"College Station-Bryan, TX Metro Area",wfh,16576,2675,135534,4195
+17820,"Colorado Springs, CO Metro Area",wfh,70067,4521,398427,6060
+17860,"Columbia, MO Metro Area",wfh,9815,1484,106499,3398
+17900,"Columbia, SC Metro Area",wfh,47314,4090,406140,6646
+17980,"Columbus, GA-AL Metro Area",wfh,16815,2596,140307,4125
+18020,"Columbus, IN Metro Area",wfh,4133,913,38703,2342
+18140,"Columbus, OH Metro Area",wfh,203852,6488,1105160,11486
+18180,"Concord, NH Micro Area",wfh,NA,NA,NA,NA
+18260,"Cookeville, TN Micro Area",wfh,NA,NA,NA,NA
+18500,"Corning, NY Micro Area",wfh,3450,847,41313,1610
+18580,"Corpus Christi, TX Metro Area",wfh,9404,1997,192243,4953
+18700,"Corvallis, OR Metro Area",wfh,7043,1350,46977,2496
+18880,"Crestview-Fort Walton Beach-Destin, FL Metro Area",wfh,15805,2286,146809,3721
+18980,"Cullman, AL Micro Area",wfh,NA,NA,NA,NA
+19060,"Cumberland, MD-WV Metro Area",wfh,NA,NA,NA,NA
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",wfh,745593,16816,4081281,21026
+19140,"Dalton, GA Metro Area",wfh,NA,NA,NA,NA
+19180,"Danville, IL Metro Area",wfh,NA,NA,NA,NA
+19260,"Danville, VA Micro Area",wfh,NA,NA,NA,NA
+19300,"Daphne-Fairhope-Foley, AL Metro Area",wfh,NA,NA,NA,NA
+19340,"Davenport-Moline-Rock Island, IA-IL Metro Area",wfh,20328,2457,186421,3829
+19430,"Dayton-Kettering, OH Metro Area",wfh,48218,3977,394262,6571
+19460,"Decatur, AL Metro Area",wfh,NA,NA,NA,NA
+19500,"Decatur, IL Metro Area",wfh,NA,NA,NA,NA
+19660,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",wfh,49453,4415,303970,6968
+19740,"Denver-Aurora-Lakewood, CO Metro Area",wfh,397525,10895,1674750,11431
+19780,"Des Moines-West Des Moines, IA Metro Area",wfh,59480,3759,384905,5810
+19820,"Detroit-Warren-Dearborn, MI Metro Area",wfh,335226,9361,2048327,16726
+20020,"Dothan, AL Metro Area",wfh,3136,812,68577,2244
+20100,"Dover, DE Metro Area",wfh,6153,1423,87692,2979
+20140,"Dublin, GA Micro Area",wfh,NA,NA,NA,NA
+20180,"DuBois, PA Micro Area",wfh,NA,NA,NA,NA
+20220,"Dubuque, IA Metro Area",wfh,NA,NA,NA,NA
+20260,"Duluth, MN-WI Metro Area",wfh,13423,1624,140267,2750
+20500,"Durham-Chapel Hill, NC Metro Area",wfh,73631,5023,340324,6086
+20700,"East Stroudsburg, PA Metro Area",wfh,NA,NA,NA,NA
+20740,"Eau Claire, WI Metro Area",wfh,9940,1716,94174,2105
+20940,"El Centro, CA Metro Area",wfh,2823,885,62467,3073
+21060,"Elizabethtown-Fort Knox, KY Metro Area",wfh,NA,NA,NA,NA
+21140,"Elkhart-Goshen, IN Metro Area",wfh,5173,1295,96600,4404
+21300,"Elmira, NY Metro Area",wfh,NA,NA,NA,NA
+21340,"El Paso, TX Metro Area",wfh,33656,4542,388587,7832
+21420,"Enid, OK Metro Area",wfh,NA,NA,NA,NA
+21500,"Erie, PA Metro Area",wfh,9780,1662,120395,2979
+21660,"Eugene-Springfield, OR Metro Area",wfh,27544,2573,185287,4446
+21700,"Eureka-Arcata, CA Micro Area",wfh,NA,NA,NA,NA
+21780,"Evansville, IN-KY Metro Area",wfh,10540,1575,152291,2973
+21820,"Fairbanks, AK Metro Area",wfh,1779,649,47632,2585
+22020,"Fargo, ND-MN Metro Area",wfh,14716,1913,147426,2883
+22060,"Faribault-Northfield, MN Micro Area",wfh,NA,NA,NA,NA
+22100,"Farmington, MO Micro Area",wfh,NA,NA,NA,NA
+22140,"Farmington, NM Metro Area",wfh,NA,NA,NA,NA
+22180,"Fayetteville, NC Metro Area",wfh,18629,2194,240478,3975
+22220,"Fayetteville-Springdale-Rogers, AR Metro Area",wfh,39644,3245,287061,5584
+22300,"Findlay, OH Micro Area",wfh,NA,NA,NA,NA
+22380,"Flagstaff, AZ Metro Area",wfh,6625,1057,68210,2351
+22420,"Flint, MI Metro Area",wfh,20430,2300,177756,4583
+22500,"Florence, SC Metro Area",wfh,6609,1915,88840,3198
+22520,"Florence-Muscle Shoals, AL Metro Area",wfh,NA,NA,NA,NA
+22540,"Fond du Lac, WI Metro Area",wfh,4889,947,51504,1621
+22660,"Fort Collins, CO Metro Area",wfh,37152,3610,193644,3920
+22840,"Fort Payne, AL Micro Area",wfh,NA,NA,NA,NA
+22900,"Fort Smith, AR-OK Metro Area",wfh,7084,1448,102605,3712
+23060,"Fort Wayne, IN Metro Area",wfh,20148,2411,209503,4391
+23180,"Frankfort, KY Micro Area",wfh,NA,NA,NA,NA
+23420,"Fresno, CA Metro Area",wfh,49340,5068,436541,8479
+23460,"Gadsden, AL Metro Area",wfh,NA,NA,NA,NA
+23540,"Gainesville, FL Metro Area",wfh,21457,3235,156113,6062
+23580,"Gainesville, GA Metro Area",wfh,11639,2334,99364,3105
+23700,"Gallup, NM Micro Area",wfh,NA,NA,NA,NA
+23900,"Gettysburg, PA Metro Area",wfh,NA,NA,NA,NA
+24020,"Glens Falls, NY Metro Area",wfh,NA,NA,NA,NA
+24060,"Glenwood Springs, CO Micro Area",wfh,5110,1033,44022,2387
+24140,"Goldsboro, NC Metro Area",wfh,NA,NA,NA,NA
+24180,"Granbury, TX Micro Area",wfh,NA,NA,NA,NA
+24220,"Grand Forks, ND-MN Metro Area",wfh,2948,819,56261,2071
+24260,"Grand Island, NE Metro Area",wfh,NA,NA,NA,NA
+24300,"Grand Junction, CO Metro Area",wfh,12601,2570,77773,2784
+24340,"Grand Rapids-Kentwood, MI Metro Area",wfh,69180,4370,559553,6784
+24420,"Grants Pass, OR Metro Area",wfh,NA,NA,NA,NA
+24500,"Great Falls, MT Metro Area",wfh,NA,NA,NA,NA
+24540,"Greeley, CO Metro Area",wfh,26262,3004,178783,4649
+24580,"Green Bay, WI Metro Area",wfh,19771,2387,166052,3953
+24620,"Greeneville, TN Micro Area",wfh,NA,NA,NA,NA
+24660,"Greensboro-High Point, NC Metro Area",wfh,45330,4793,369124,7390
+24780,"Greenville, NC Metro Area",wfh,NA,NA,NA,NA
+24860,"Greenville-Anderson, SC Metro Area",wfh,48838,3960,451763,6502
+24940,"Greenwood, SC Micro Area",wfh,NA,NA,NA,NA
+25020,"Guayama, PR Metro Area",wfh,NA,NA,NA,NA
+25060,"Gulfport-Biloxi, MS Metro Area",wfh,11972,2069,184487,4133
+25180,"Hagerstown-Martinsburg, MD-WV Metro Area",wfh,15782,2585,140065,3440
+25220,"Hammond, LA Metro Area",wfh,NA,NA,NA,NA
+25260,"Hanford-Corcoran, CA Metro Area",wfh,2782,1096,59245,3342
+25420,"Harrisburg-Carlisle, PA Metro Area",wfh,50604,3228,295313,5492
+25500,"Harrisonburg, VA Metro Area",wfh,5314,1069,66218,2511
+25540,"Hartford-East Hartford-Middletown, CT Metro Area",wfh,104392,5177,627816,8031
+25620,"Hattiesburg, MS Metro Area",wfh,NA,NA,NA,NA
+25720,"Heber, UT Micro Area",wfh,NA,NA,NA,NA
+25740,"Helena, MT Micro Area",wfh,5898,1223,43160,2000
+25840,"Hermiston-Pendleton, OR Micro Area",wfh,2224,919,41009,2040
+25860,"Hickory-Lenoir-Morganton, NC Metro Area",wfh,12255,2355,171831,4370
+25900,"Hilo, HI Micro Area",wfh,9550,1670,87253,3979
+25940,"Hilton Head Island-Bluffton, SC Metro Area",wfh,NA,NA,NA,NA
+25980,"Hinesville, GA Metro Area",wfh,NA,NA,NA,NA
+26020,"Hobbs, NM Micro Area",wfh,NA,NA,NA,NA
+26090,"Holland, MI Micro Area",wfh,4878,831,58549,1809
+26140,"Homosassa Springs, FL Metro Area",wfh,NA,NA,NA,NA
+26300,"Hot Springs, AR Metro Area",wfh,NA,NA,NA,NA
+26380,"Houma-Thibodaux, LA Metro Area",wfh,NA,NA,NA,NA
+26420,"Houston-The Woodlands-Sugar Land, TX Metro Area",wfh,458353,13691,3526442,24198
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",wfh,9774,1511,148853,4006
+26620,"Huntsville, AL Metro Area",wfh,36347,4185,255229,5568
+26660,"Huntsville, TX Micro Area",wfh,NA,NA,NA,NA
+26820,"Idaho Falls, ID Metro Area",wfh,6095,1035,72532,3631
+26860,"Indiana, PA Micro Area",wfh,NA,NA,NA,NA
+26900,"Indianapolis-Carmel-Anderson, IN Metro Area",wfh,164044,6621,1087407,10674
+26980,"Iowa City, IA Metro Area",wfh,12326,1951,95860,2619
+27060,"Ithaca, NY Metro Area",wfh,7870,1293,46946,2536
+27100,"Jackson, MI Metro Area",wfh,NA,NA,NA,NA
+27140,"Jackson, MS Metro Area",wfh,18914,2712,261509,5566
+27180,"Jackson, TN Metro Area",wfh,NA,NA,NA,NA
+27260,"Jacksonville, FL Metro Area",wfh,155280,8321,822618,10045
+27340,"Jacksonville, NC Metro Area",wfh,NA,NA,NA,NA
+27460,"Jamestown-Dunkirk-Fredonia, NY Micro Area",wfh,4355,833,54229,2304
+27500,"Janesville-Beloit, WI Metro Area",wfh,7467,1685,83234,2919
+27600,"Jefferson, GA Micro Area",wfh,NA,NA,NA,NA
+27620,"Jefferson City, MO Metro Area",wfh,5724,1132,73278,2926
+27740,"Johnson City, TN Metro Area",wfh,9558,1732,101470,4101
+27780,"Johnstown, PA Metro Area",wfh,6035,1090,54825,1781
+27860,"Jonesboro, AR Metro Area",wfh,NA,NA,NA,NA
+27900,"Joplin, MO Metro Area",wfh,NA,NA,NA,NA
+27980,"Kahului-Wailuku-Lahaina, HI Metro Area",wfh,8870,1579,81380,2526
+28020,"Kalamazoo-Portage, MI Metro Area",wfh,14493,2021,132973,3726
+28060,"Kalispell, MT Micro Area",wfh,NA,NA,NA,NA
+28100,"Kankakee, IL Metro Area",wfh,4161,1106,49371,2091
+28140,"Kansas City, MO-KS Metro Area",wfh,198687,8180,1124962,9101
+28180,"Kapaa, HI Micro Area",wfh,NA,NA,NA,NA
+28300,"Keene, NH Micro Area",wfh,NA,NA,NA,NA
+28420,"Kennewick-Richland, WA Metro Area",wfh,16485,2406,144705,3563
+28580,"Key West, FL Micro Area",wfh,5721,1230,42463,2318
+28660,"Killeen-Temple, TX Metro Area",wfh,24425,3123,227024,5419
+28700,"Kingsport-Bristol, TN-VA Metro Area",wfh,NA,NA,NA,NA
+28740,"Kingston, NY Metro Area",wfh,15029,2071,82185,3249
+28900,"Klamath Falls, OR Micro Area",wfh,NA,NA,NA,NA
+28940,"Knoxville, TN Metro Area",wfh,56060,4081,430563,8424
+29020,"Kokomo, IN Metro Area",wfh,NA,NA,NA,NA
+29100,"La Crosse-Onalaska, WI-MN Metro Area",wfh,7878,1499,74061,1995
+29180,"Lafayette, LA Metro Area",wfh,16645,2454,210366,5591
+29200,"Lafayette-West Lafayette, IN Metro Area",wfh,10743,1714,106955,3175
+29300,"LaGrange, GA-AL Micro Area",wfh,NA,NA,NA,NA
+29340,"Lake Charles, LA Metro Area",wfh,7001,2243,89900,3282
+29380,"Lake City, FL Micro Area",wfh,NA,NA,NA,NA
+29420,"Lake Havasu City-Kingman, AZ Metro Area",wfh,NA,NA,NA,NA
+29460,"Lakeland-Winter Haven, FL Metro Area",wfh,42260,4583,346173,6540
+29540,"Lancaster, PA Metro Area",wfh,27257,2503,277801,5047
+29620,"Lansing-East Lansing, MI Metro Area",wfh,40158,3163,268990,4581
+29700,"Laredo, TX Metro Area",wfh,8166,2083,114721,3486
+29740,"Las Cruces, NM Metro Area",wfh,8102,1668,96121,4063
+29820,"Las Vegas-Henderson-Paradise, NV Metro Area",wfh,142376,7171,1104514,12187
+29860,"Laurel, MS Micro Area",wfh,NA,NA,NA,NA
+29940,"Lawrence, KS Metro Area",wfh,10163,2239,68297,2626
+30020,"Lawton, OK Metro Area",wfh,NA,NA,NA,NA
+30100,"Lebanon, NH-VT Micro Area",wfh,16754,1501,111169,3230
+30140,"Lebanon, PA Metro Area",wfh,NA,NA,NA,NA
+30300,"Lewiston, ID-WA Metro Area",wfh,NA,NA,NA,NA
+30340,"Lewiston-Auburn, ME Metro Area",wfh,NA,NA,NA,NA
+30460,"Lexington-Fayette, KY Metro Area",wfh,29841,2872,260291,4560
+30620,"Lima, OH Metro Area",wfh,2287,713,47068,2283
+30700,"Lincoln, NE Metro Area",wfh,20893,2414,181766,3844
+30780,"Little Rock-North Little Rock-Conway, AR Metro Area",wfh,35344,3920,342532,7196
+30860,"Logan, UT-ID Metro Area",wfh,11286,1516,78428,2336
+30940,"London, KY Micro Area",wfh,NA,NA,NA,NA
+30980,"Longview, TX Metro Area",wfh,NA,NA,NA,NA
+31020,"Longview, WA Metro Area",wfh,NA,NA,NA,NA
+31080,"Los Angeles-Long Beach-Anaheim, CA Metro Area",wfh,1092654,18449,6342831,25650
+31140,"Louisville/Jefferson County, KY-IN Metro Area",wfh,87748,5428,641621,7917
+31180,"Lubbock, TX Metro Area",wfh,9993,1900,161727,4418
+31260,"Lufkin, TX Micro Area",wfh,NA,NA,NA,NA
+31300,"Lumberton, NC Micro Area",wfh,NA,NA,NA,NA
+31340,"Lynchburg, VA Metro Area",wfh,15013,2120,118165,3900
+31420,"Macon-Bibb County, GA Metro Area",wfh,NA,NA,NA,NA
+31460,"Madera, CA Metro Area",wfh,NA,NA,NA,NA
+31540,"Madison, WI Metro Area",wfh,72911,3802,378842,4930
+31700,"Manchester-Nashua, NH Metro Area",wfh,44224,3806,238948,3832
+31740,"Manhattan, KS Metro Area",wfh,6109,1436,70255,2232
+31820,"Manitowoc, WI Micro Area",wfh,2843,586,41028,1268
+31860,"Mankato, MN Metro Area",wfh,NA,NA,NA,NA
+31900,"Mansfield, OH Metro Area",wfh,NA,NA,NA,NA
+31940,"Marinette, WI-MI Micro Area",wfh,NA,NA,NA,NA
+31980,"Marion, IN Micro Area",wfh,NA,NA,NA,NA
+32020,"Marion, OH Micro Area",wfh,NA,NA,NA,NA
+32100,"Marquette, MI Micro Area",wfh,NA,NA,NA,NA
+32420,"Mayagüez, PR Metro Area",wfh,NA,NA,NA,NA
+32580,"McAllen-Edinburg-Mission, TX Metro Area",wfh,31963,3544,353723,6311
+32740,"Meadville, PA Micro Area",wfh,NA,NA,NA,NA
+32780,"Medford, OR Metro Area",wfh,12026,1987,98535,3981
+32820,"Memphis, TN-MS-AR Metro Area",wfh,68923,5637,621671,9925
+32900,"Merced, CA Metro Area",wfh,7797,2282,114825,4476
+32940,"Meridian, MS Micro Area",wfh,NA,NA,NA,NA
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",wfh,451884,13968,3030208,23182
+33140,"Michigan City-La Porte, IN Metro Area",wfh,NA,NA,NA,NA
+33220,"Midland, MI Metro Area",wfh,NA,NA,NA,NA
+33260,"Midland, TX Metro Area",wfh,4792,1689,87861,2853
+33340,"Milwaukee-Waukesha, WI Metro Area",wfh,115444,5601,788814,8195
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",wfh,412170,10021,1971461,11442
+33500,"Minot, ND Micro Area",wfh,NA,NA,NA,NA
+33540,"Missoula, MT Metro Area",wfh,9016,1318,67631,2116
+33660,"Mobile, AL Metro Area",wfh,NA,NA,NA,NA
+33700,"Modesto, CA Metro Area",wfh,16921,2733,236520,5010
+33740,"Monroe, LA Metro Area",wfh,NA,NA,NA,NA
+33780,"Monroe, MI Metro Area",wfh,NA,NA,NA,NA
+33860,"Montgomery, AL Metro Area",wfh,NA,NA,NA,NA
+33980,"Morehead City, NC Micro Area",wfh,NA,NA,NA,NA
+34060,"Morgantown, WV Metro Area",wfh,7994,1435,65635,2633
+34100,"Morristown, TN Metro Area",wfh,NA,NA,NA,NA
+34180,"Moses Lake, WA Micro Area",wfh,NA,NA,NA,NA
+34340,"Mount Airy, NC Micro Area",wfh,NA,NA,NA,NA
+34580,"Mount Vernon-Anacortes, WA Metro Area",wfh,NA,NA,NA,NA
+34620,"Muncie, IN Metro Area",wfh,NA,NA,NA,NA
+34740,"Muskegon, MI Metro Area",wfh,NA,NA,NA,NA
+34780,"Muskogee, OK Micro Area",wfh,NA,NA,NA,NA
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",wfh,29941,3334,235434,5974
+34900,"Napa, CA Metro Area",wfh,7540,1366,63552,2484
+34940,"Naples-Marco Island, FL Metro Area",wfh,26502,3472,165538,4311
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",wfh,209760,8277,1083087,11499
+35100,"New Bern, NC Metro Area",wfh,NA,NA,NA,NA
+35260,"New Castle, PA Micro Area",wfh,NA,NA,NA,NA
+35300,"New Haven-Milford, CT Metro Area",wfh,56271,3607,427410,7587
+35380,"New Orleans-Metairie, LA Metro Area",wfh,64876,4839,575380,8245
+35420,"New Philadelphia-Dover, OH Micro Area",wfh,NA,NA,NA,NA
+35620,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",wfh,1562742,24138,9585291,30107
+35660,"Niles, MI Metro Area",wfh,7547,1076,68975,2353
+35840,"North Port-Sarasota-Bradenton, FL Metro Area",wfh,65500,5923,376849,6620
+35900,"North Wilkesboro, NC Micro Area",wfh,NA,NA,NA,NA
+35980,"Norwich-New London, CT Metro Area",wfh,17125,2278,132968,4221
+36020,"Oak Harbor, WA Micro Area",wfh,NA,NA,NA,NA
+36100,"Ocala, FL Metro Area",wfh,18504,3109,153110,5387
+36140,"Ocean City, NJ Metro Area",wfh,NA,NA,NA,NA
+36220,"Odessa, TX Metro Area",wfh,NA,NA,NA,NA
+36260,"Ogden-Clearfield, UT Metro Area",wfh,65483,4257,360738,5058
+36300,"Ogdensburg-Massena, NY Micro Area",wfh,NA,NA,NA,NA
+36420,"Oklahoma City, OK Metro Area",wfh,75686,4325,708510,7551
+36460,"Olean, NY Micro Area",wfh,2183,700,33315,1168
+36500,"Olympia-Lacey-Tumwater, WA Metro Area",wfh,28942,2717,143155,3737
+36540,"Omaha-Council Bluffs, NE-IA Metro Area",wfh,74699,3834,511011,6033
+36660,"Opelousas, LA Micro Area",wfh,NA,NA,NA,NA
+36700,"Orangeburg, SC Micro Area",wfh,NA,NA,NA,NA
+36740,"Orlando-Kissimmee-Sanford, FL Metro Area",wfh,263698,11807,1383275,15194
+36780,"Oshkosh-Neenah, WI Metro Area",wfh,10727,2218,88985,2325
+36837,"Ottawa, IL Micro Area",wfh,2342,654,66819,2308
+36980,"Owensboro, KY Metro Area",wfh,NA,NA,NA,NA
+37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",wfh,63378,3889,411328,5466
+37140,"Paducah, KY-IL Micro Area",wfh,NA,NA,NA,NA
+37260,"Palatka, FL Micro Area",wfh,NA,NA,NA,NA
+37340,"Palm Bay-Melbourne-Titusville, FL Metro Area",wfh,46972,4206,287484,6117
+37460,"Panama City, FL Metro Area",wfh,10781,2625,91525,2672
+37620,"Parkersburg-Vienna, WV Metro Area",wfh,NA,NA,NA,NA
+37860,"Pensacola-Ferry Pass-Brent, FL Metro Area",wfh,36534,3254,250518,5759
+37900,"Peoria, IL Metro Area",wfh,20007,2591,183746,4146
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",wfh,582459,13001,3127438,18253
+38060,"Phoenix-Mesa-Chandler, AZ Metro Area",wfh,531371,14303,2444655,18038
+38220,"Pine Bluff, AR Metro Area",wfh,NA,NA,NA,NA
+38240,"Pinehurst-Southern Pines, NC Micro Area",wfh,NA,NA,NA,NA
+38300,"Pittsburgh, PA Metro Area",wfh,201109,6754,1157384,9894
+38340,"Pittsfield, MA Metro Area",wfh,NA,NA,NA,NA
+38460,"Plattsburgh, NY Micro Area",wfh,NA,NA,NA,NA
+38540,"Pocatello, ID Metro Area",wfh,3852,949,45036,2257
+38660,"Ponce, PR Metro Area",wfh,NA,NA,NA,NA
+38820,"Port Angeles, WA Micro Area",wfh,NA,NA,NA,NA
+38860,"Portland-South Portland, ME Metro Area",wfh,57540,4751,295887,5151
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",wfh,303293,10351,1303541,12484
+38940,"Port St. Lucie, FL Metro Area",wfh,31876,3820,220477,6475
+39020,"Portsmouth, OH Micro Area",wfh,NA,NA,NA,NA
+39060,"Pottsville, PA Micro Area",wfh,NA,NA,NA,NA
+39100,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",wfh,45264,3581,332350,5167
+39150,"Prescott Valley-Prescott, AZ Metro Area",wfh,13876,2095,95175,3601
+39300,"Providence-Warwick, RI-MA Metro Area",wfh,107951,6378,847688,8114
+39340,"Provo-Orem, UT Metro Area",wfh,68706,4283,355974,4580
+39380,"Pueblo, CO Metro Area",wfh,NA,NA,NA,NA
+39460,"Punta Gorda, FL Metro Area",wfh,NA,NA,NA,NA
+39500,"Quincy, IL-MO Micro Area",wfh,1809,607,36935,1406
+39540,"Racine, WI Metro Area",wfh,8867,1380,93412,3073
+39580,"Raleigh-Cary, NC Metro Area",wfh,203600,9889,778765,9106
+39660,"Rapid City, SD Metro Area",wfh,7237,1631,71272,2688
+39740,"Reading, PA Metro Area",wfh,25969,2898,213117,4772
+39780,"Red Bluff, CA Micro Area",wfh,NA,NA,NA,NA
+39820,"Redding, CA Metro Area",wfh,6403,1412,75792,3462
+39900,"Reno, NV Metro Area",wfh,27250,3166,251804,4705
+39940,"Rexburg, ID Micro Area",wfh,3032,864,33814,2090
+39980,"Richmond, IN Micro Area",wfh,NA,NA,NA,NA
+40060,"Richmond, VA Metro Area",wfh,127864,5300,684826,8219
+40080,"Richmond-Berea, KY Micro Area",wfh,NA,NA,NA,NA
+40100,"Rio Grande City-Roma, TX Micro Area",wfh,NA,NA,NA,NA
+40140,"Riverside-San Bernardino-Ontario, CA Metro Area",wfh,237670,9412,2096097,16088
+40220,"Roanoke, VA Metro Area",wfh,20685,2792,145379,3648
+40260,"Roanoke Rapids, NC Micro Area",wfh,NA,NA,NA,NA
+40340,"Rochester, MN Metro Area",wfh,15543,1826,117511,2311
+40380,"Rochester, NY Metro Area",wfh,72935,3738,523266,7005
+40420,"Rockford, IL Metro Area",wfh,14627,2539,151168,4165
+40580,"Rocky Mount, NC Metro Area",wfh,NA,NA,NA,NA
+40660,"Rome, GA Metro Area",wfh,NA,NA,NA,NA
+40700,"Roseburg, OR Micro Area",wfh,NA,NA,NA,NA
+40780,"Russellville, AR Micro Area",wfh,NA,NA,NA,NA
+40900,"Sacramento-Roseville-Folsom, CA Metro Area",wfh,225416,8354,1136715,9593
+40980,"Saginaw, MI Metro Area",wfh,NA,NA,NA,NA
+41060,"St. Cloud, MN Metro Area",wfh,10688,1737,105699,2804
+41100,"St. George, UT Metro Area",wfh,13575,3075,86034,3352
+41140,"St. Joseph, MO-KS Metro Area",wfh,NA,NA,NA,NA
+41180,"St. Louis, MO-IL Metro Area",wfh,221510,8636,1386519,11097
+41400,"Salem, OH Micro Area",wfh,NA,NA,NA,NA
+41420,"Salem, OR Metro Area",wfh,25718,2770,198133,5316
+41500,"Salinas, CA Metro Area",wfh,22115,2954,183394,4732
+41540,"Salisbury, MD-DE Metro Area",wfh,24969,2421,196440,5161
+41620,"Salt Lake City, UT Metro Area",wfh,128873,6623,681191,7196
+41660,"San Angelo, TX Metro Area",wfh,4962,1613,57503,2535
+41700,"San Antonio-New Braunfels, TX Metro Area",wfh,189650,9225,1280341,13677
+41740,"San Diego-Chula Vista-Carlsbad, CA Metro Area",wfh,308923,10086,1659606,13062
+41780,"Sandusky, OH Micro Area",wfh,NA,NA,NA,NA
+41820,"Sanford, NC Micro Area",wfh,NA,NA,NA,NA
+41860,"San Francisco-Oakland-Berkeley, CA Metro Area",wfh,636052,13539,2354568,14296
+41900,"San Germán, PR Metro Area",wfh,NA,NA,NA,NA
+41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",wfh,243584,7541,999812,8350
+41980,"San Juan-Bayamón-Caguas, PR Metro Area",wfh,46887,4060,760883,11972
+42020,"San Luis Obispo-Paso Robles, CA Metro Area",wfh,21445,2574,132034,3933
+42100,"Santa Cruz-Watsonville, CA Metro Area",wfh,25256,2546,126921,4071
+42140,"Santa Fe, NM Metro Area",wfh,14071,1697,73985,2398
+42200,"Santa Maria-Santa Barbara, CA Metro Area",wfh,27638,2983,205655,5011
+42220,"Santa Rosa-Petaluma, CA Metro Area",wfh,35126,2995,240821,5612
+42340,"Savannah, GA Metro Area",wfh,22796,3663,200947,4298
+42540,"Scranton--Wilkes-Barre, PA Metro Area",wfh,26350,2408,269978,4527
+42620,"Searcy, AR Micro Area",wfh,NA,NA,NA,NA
+42660,"Seattle-Tacoma-Bellevue, WA Metro Area",wfh,539160,10935,2125463,15526
+42680,"Sebastian-Vero Beach, FL Metro Area",wfh,10326,1926,66440,3206
+42700,"Sebring-Avon Park, FL Metro Area",wfh,2571,1029,36577,2462
+42860,"Seneca, SC Micro Area",wfh,NA,NA,NA,NA
+42940,"Sevierville, TN Micro Area",wfh,NA,NA,NA,NA
+43060,"Shawnee, OK Micro Area",wfh,NA,NA,NA,NA
+43100,"Sheboygan, WI Metro Area",wfh,NA,NA,NA,NA
+43140,"Shelby, NC Micro Area",wfh,NA,NA,NA,NA
+43220,"Shelton, WA Micro Area",wfh,NA,NA,NA,NA
+43300,"Sherman-Denison, TX Metro Area",wfh,NA,NA,NA,NA
+43320,"Show Low, AZ Micro Area",wfh,NA,NA,NA,NA
+43340,"Shreveport-Bossier City, LA Metro Area",wfh,10849,1953,167427,4203
+43420,"Sierra Vista-Douglas, AZ Metro Area",wfh,6417,1475,46309,2398
+43580,"Sioux City, IA-NE-SD Metro Area",wfh,3735,1006,73916,2507
+43620,"Sioux Falls, SD Metro Area",wfh,18648,2156,161974,3029
+43700,"Somerset, KY Micro Area",wfh,NA,NA,NA,NA
+43740,"Somerset, PA Micro Area",wfh,NA,NA,NA,NA
+43780,"South Bend-Mishawaka, IN-MI Metro Area",wfh,13295,1952,154628,3591
+43900,"Spartanburg, SC Metro Area",wfh,14845,2214,161200,4584
+44060,"Spokane-Spokane Valley, WA Metro Area",wfh,44004,3522,276836,4838
+44100,"Springfield, IL Metro Area",wfh,12792,2183,95403,3094
+44140,"Springfield, MA Metro Area",wfh,38340,3274,322646,6550
+44180,"Springfield, MO Metro Area",wfh,25547,3169,225289,5618
+44220,"Springfield, OH Metro Area",wfh,4596,890,58876,2897
+44300,"State College, PA Metro Area",wfh,10628,2017,71124,3023
+44340,"Statesboro, GA Micro Area",wfh,NA,NA,NA,NA
+44420,"Staunton, VA Metro Area",wfh,NA,NA,NA,NA
+44620,"Stevens Point, WI Micro Area",wfh,NA,NA,NA,NA
+44660,"Stillwater, OK Micro Area",wfh,NA,NA,NA,NA
+44700,"Stockton, CA Metro Area",wfh,37857,3574,346683,5930
+44940,"Sumter, SC Metro Area",wfh,NA,NA,NA,NA
+44980,"Sunbury, PA Micro Area",wfh,NA,NA,NA,NA
+45060,"Syracuse, NY Metro Area",wfh,36994,2920,309713,5096
+45180,"Talladega-Sylacauga, AL Micro Area",wfh,NA,NA,NA,NA
+45220,"Tallahassee, FL Metro Area",wfh,17732,2242,188393,4559
+45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",wfh,333620,11024,1575399,14284
+45460,"Terre Haute, IN Metro Area",wfh,5949,1481,79426,2958
+45500,"Texarkana, TX-AR Metro Area",wfh,NA,NA,NA,NA
+45540,"The Villages, FL Metro Area",wfh,NA,NA,NA,NA
+45780,"Toledo, OH Metro Area",wfh,23912,2288,306326,5706
+45820,"Topeka, KS Metro Area",wfh,13150,1979,105267,2806
+45860,"Torrington, CT Micro Area",wfh,12714,2055,97527,4579
+45900,"Traverse City, MI Micro Area",wfh,10882,1396,73004,2627
+45940,"Trenton-Princeton, NJ Metro Area",wfh,34925,3240,185094,4663
+46020,"Truckee-Grass Valley, CA Micro Area",wfh,9825,1926,41155,2315
+46060,"Tucson, AZ Metro Area",wfh,69188,4112,472991,7281
+46100,"Tullahoma-Manchester, TN Micro Area",wfh,NA,NA,NA,NA
+46140,"Tulsa, OK Metro Area",wfh,50961,2542,487253,5840
+46180,"Tupelo, MS Micro Area",wfh,NA,NA,NA,NA
+46220,"Tuscaloosa, AL Metro Area",wfh,NA,NA,NA,NA
+46300,"Twin Falls, ID Metro Area",wfh,4257,1218,55989,2183
+46340,"Tyler, TX Metro Area",wfh,NA,NA,NA,NA
+46380,"Ukiah, CA Micro Area",wfh,NA,NA,NA,NA
+46520,"Urban Honolulu, HI Metro Area",wfh,45632,3294,497103,5898
+46540,"Utica-Rome, NY Metro Area",wfh,14230,1863,125630,3447
+46660,"Valdosta, GA Metro Area",wfh,NA,NA,NA,NA
+46700,"Vallejo, CA Metro Area",wfh,26569,2840,202290,5510
+47020,"Victoria, TX Metro Area",wfh,NA,NA,NA,NA
+47220,"Vineland-Bridgeton, NJ Metro Area",wfh,NA,NA,NA,NA
+47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",wfh,100526,5844,902140,10149
+47300,"Visalia, CA Metro Area",wfh,10375,1893,191129,4912
+47380,"Waco, TX Metro Area",wfh,13863,2523,129878,4547
+47460,"Walla Walla, WA Metro Area",wfh,NA,NA,NA,NA
+47580,"Warner Robins, GA Metro Area",wfh,NA,NA,NA,NA
+47700,"Warsaw, IN Micro Area",wfh,NA,NA,NA,NA
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",wfh,866858,17858,3412293,18929
+47940,"Waterloo-Cedar Falls, IA Metro Area",wfh,6739,1328,84615,2296
+48020,"Watertown-Fort Atkinson, WI Micro Area",wfh,NA,NA,NA,NA
+48060,"Watertown-Fort Drum, NY Metro Area",wfh,NA,NA,NA,NA
+48140,"Wausau-Weston, WI Metro Area",wfh,8512,1451,82555,2332
+48260,"Weirton-Steubenville, WV-OH Metro Area",wfh,NA,NA,NA,NA
+48300,"Wenatchee, WA Metro Area",wfh,NA,NA,NA,NA
+48540,"Wheeling, WV-OH Metro Area",wfh,NA,NA,NA,NA
+48580,"Whitewater, WI Micro Area",wfh,NA,NA,NA,NA
+48620,"Wichita, KS Metro Area",wfh,24940,2912,314150,5321
+48660,"Wichita Falls, TX Metro Area",wfh,4504,1093,72466,2317
+48700,"Williamsport, PA Metro Area",wfh,4339,895,52793,2289
+48900,"Wilmington, NC Metro Area",wfh,27859,2810,157088,3999
+48980,"Wilson, NC Micro Area",wfh,NA,NA,NA,NA
+49020,"Winchester, VA-WV Metro Area",wfh,NA,NA,NA,NA
+49180,"Winston-Salem, NC Metro Area",wfh,37465,3998,308749,7524
+49220,"Wisconsin Rapids-Marshfield, WI Micro Area",wfh,NA,NA,NA,NA
+49300,"Wooster, OH Micro Area",wfh,3691,923,52747,1821
+49340,"Worcester, MA-CT Metro Area",wfh,76136,4200,493355,7241
+49420,"Yakima, WA Metro Area",wfh,8216,1682,108805,3587
+49500,"Yauco, PR Metro Area",wfh,NA,NA,NA,NA
+49620,"York-Hanover, PA Metro Area",wfh,29767,2834,231935,4633
+49660,"Youngstown-Warren-Boardman, OH-PA Metro Area",wfh,18675,2103,236299,4591
+49700,"Yuba City, CA Metro Area",wfh,5655,1148,76591,3121
+49740,"Yuma, AZ Metro Area",wfh,NA,NA,NA,NA
+49780,"Zanesville, OH Micro Area",wfh,NA,NA,NA,NA
+1,United States,wfh,24381732,104716,160577736,154970

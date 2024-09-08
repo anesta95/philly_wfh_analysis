@@ -1,0 +1,11 @@
+city,Office Occupancy,METFIPS,Telework Rate,NAME
+Austin,59.21540229885058,12420,64.85172383972618,"Austin-Round Rock-Georgetown, TX Metro Area"
+Chicago,50.052183908045976,16980,50.11488818845871,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area"
+Dallas,52.78793103448276,19100,46.560814304597855,"Dallas-Fort Worth-Arlington, TX Metro Area"
+Houston,57.90712643678161,26420,38.37837215398526,"Houston-The Woodlands-Sugar Land, TX Metro Area"
+Los Angeles,46.29965517241379,31080,45.66590577263664,"Los Angeles-Long Beach-Anaheim, CA Metro Area"
+New York,46.382183908045974,35620,47.333238271643246,"New York-Newark-Jersey City, NY-NJ-PA Metro Area"
+Philadelphia,40.73057471264368,37980,55.62741276106369,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area"
+San Francisco,41.88954022988506,41860,62.87056202220346,"San Francisco-Oakland-Berkeley, CA Metro Area"
+San Jose,38.652068965517245,41940,60.1265842976795,"San Jose-Sunnyvale-Santa Clara, CA Metro Area"
+Washington,44.96252873563218,47900,57.73188849635839,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area"
